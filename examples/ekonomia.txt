@@ -1,0 +1,603 @@
+OPTIMUM. ECONOMIC STUDIES NR 1 (95) 2019
+
+STUDIA I ROZPRAWY
+
+Prof. dr hab. Anna ZĄBKOWICZ
+Uniwersytet Jagielloński
+anna.zabkowicz@uj.edu.pl
+ORCID: 0000-0003-1977-0884
+
+DOI: 10.15290/oes.2019.01.95.01
+
+CZY ISTNIEJE EKONOMIA KAPITALIZMU?1
+Streszczenie
+Cel – Artykuł ma za zadanie pokazać, że znacząca część myśli ekonomicznej, która nie została
+włączona w główny nurt teorii ekonomii, swój rozwój zawdzięcza refleksji nad różnymi konfiguracjami
+kapitalizmu.
+Opis – W pierwszej części opracowania wyjaśnia, że w świetle dzieł wybitnych myślicieli na
+zachodzie Europy utożsamianie kapitalizmu z rynkiem wypada jak daleko idące uproszczenie, a zatem
+ekonomia oparta na konstrukcie rynku nie jest tym samym co ekonomia kapitalizmu. W drugiej części
+odwołano się do przykładów „nieortodoksyjnej” myśli po to, aby zaakcentować zbieżność dwóch
+procesów: rozwoju kapitalizmu i rozwoju myślenia o nim. Przykłady wykorzystane pochodzą z okresu
+intelektualnego rozrachunku w czasie i bezpośrednio po II wojnie światowej, kiedy ukazały się książki
+F.A. von Hayeka, K. Polanyi’ego i W. Euckena do dziś oferujące punkty odniesienia w debatach tych,
+którzy chcą zrozumieć kapitalizm.
+Słowa kluczowe: główny nurt teorii ekonomii, liberalizm, ekonomia heterodoksyjna, Karl Polanyi
+IS THE ECONOMY OF CAPITALISM ON THE AGENDA?
+Summary
+Purpose – It is argued that a significant strand of economic thought which remains outside the
+mainstream has been built on the reflection on different capitalism configurations.
+Description – First, it is claimed that the free-market economy is not identical with the economy
+of capitalism since capitalism is not market itself. Next, the paper dwells on some “non-orthodox”
+theories while striving to show their compatibility with capitalism configurations. The examples chosen
+derive from wartime and postwar intellectual debates which resulted, among others, in the works of
+Friedrich von Hayek, Karl Polanyi and Walter Eucken, which still constitute reference points in current
+debates on capitalism.
+Key words: economic mainstream, liberalism, heterodox economics, K. Polanyi
+JEL classification: B52
+
+1
+
+Artykuł wpłynął 10 września 2018 r., zaakceptowano 29 października 2018 r.
+Article received 10 September 2018, accepted 29 October 2018.
+
+4
+
+Anna Ząbkowicz
+1. Wstęp
+
+Odpowiedź na pytanie: Czy istnieje ekonomia kapitalizmu? wydaje się oczywista
+– mimo to warto je zadać. Uznaje się, że ekonomia powstała wraz z dziełem
+A. Smitha wydanym w 1776 r. czyli niemal równocześnie z kapitalizmem, jeśli
+polegać na tych historykach, którzy początek kapitalizmu datują na wiek XVIII. Ten
+artykuł w ogóle by nie powstał, gdyby nie fakt, że główny nurt teorii ekonomicznych
+nie zajmuje się kapitalizmem. Zajmuje się logicznymi zależnościami, ale nie ustrojem, w którym przyszło nam żyć, kształtującym się w określonym miejscu i czasie.
+Jeśli uznamy ten fakt, odpowiedź przestaje być oczywista i zaczyna być intrygująca.
+Artykuł odwołuje się do znacznej część myśli ekonomicznej, która nie została
+włączona w główny nurt na etapie powojennej konsolidacji dyscypliny. Ma za zadanie pokazać, że swój rozwój owa „nieortodoksyjna” ekonomia zawdzięcza refleksji
+nad różnymi konfiguracjami kapitalizmu. Studiowanie kapitalizmu jest wspólnym
+dziełem socjologów, politologów i ekonomistów. To ten dorobek miał na myśli wybitny niemiecki uczony W. Streeck, wieloletni dyrektor Instytutu Badań Społecznych
+fundacji Maxa Plancka (Max Planck Institut fuer Gesellschaftsforschung), apelując,
+aby przestać się zajmować bezczasową (timeless) „ekonomią” i powrócić do studiów
+nad realnie istniejącym kapitalizmem [Streeck, 2009]. „Understanding the World in
+Which We Live”. Tym mottem rozpoczyna swoją książkę o kapitalistycznym
+systemie-świecie I. Wallerstein [2004]. Inny prominentny autor, H. Chang, profesor
+Uniwersytetu Cambridge dowodzi, że wyjaśnienia nie możemy oczekiwać od ekonomii „wolnorynkowej” (free-market economics), chodziłoby więc o taką naukę, która
+objaśnia jak funkcjonuje kapitalizm [Chang, 2011]. Odnośny dorobek kumuluje się
+nieprzerwanie od czasów Smitha; podobnie kapitalizm istnieje nieprzerwanie, jakby
+pomimo abstrakcyjnej, „bezczasowej” i „wolnorynkowej” ekonomii. Jak wynika
+z dat publikacji przytoczonych właśnie prac, ekonomia kapitalizmu dzieje się także
+współcześnie.
+Oczywiście niemożliwe jest pomieszczenie tego dorobku w ramach artykułu.
+W takiej małej formie nie do pomyślenia jest nawet rzetelny przegląd prac najbardziej uznanych autorów. Nie taki jest też cel artykułu. Odwołania do literatury
+pojawią się głównie po to, aby zaakcentować zbieżność dwóch procesów: rozwoju
+kapitalizmu i rozwoju myślenia o nim. Przykłady wykorzystane tutaj pochodzą
+z okresu intelektualnego rozrachunku w czasie i bezpośrednio po II wojnie światowej, kiedy ukazały się książki F.A. von Hayeka, K. Polanyi’ego i W. Euckena do dziś
+oferujące punkty odniesienia w debatach tych, którzy chcą zrozumieć kapitalizm.
+2. Teoria rynku i ekonomia kapitalizmu
+Ekonomia chce wyjaśnić, mówiąc najogólniej, czym kierują się ludzie, mając na
+względzie materialne warunki bytu i w jaki sposób te indywidualne decyzje przekładają się na zachowanie rynków i społeczeństw. Teoria ze swej natury polega na
+okrawaniu rzeczywistości bądź tworzeniu nowego „świata” za pomocą ograniczają-
+
+Czy istnieje ekonomia kapitalizmu?
+
+5
+
+cych założeń. Ekonomiści, aby przeniknąć gmatwaninę ludzkich decyzji i zachowań,
+przyjmują, że ludźmi powoduje przede wszystkim interes materialny, który realizuje
+się na rynku. Jest to oczywiste zawężenie ludzkiego działania do tej części, która
+dotyczy kupna, sprzedaży, produkcji i konsumpcji.
+Teoria ekonomii w głównym nurcie przepuszcza przez swoisty pryzmat szeroką
+i złożoną sferę ludzkiej aktywności i doświadczenia. Tworzy modele, które nie opisują bynajmniej rzeczywiście istniejących systemów, lecz typy idealne, konstrukcje
+teoretyczne oparte na kilku czynnikach. Dzięki temu operuje na szkielecie gospodarki rynkowej, który daje się opisać w języku matematyki. Uproszczenie osiąga się
+niewątpliwie kosztem oddalenia od prawdziwej gospodarki. W zamian za to zyskuje
+się możliwość otrzymania wyników opartych na precyzyjnych wyliczeniach oraz sposobność rozumowania na „twardym” gruncie modelu. Nie wchodząc w szczegóły,
+można tę niezbędną charakterystykę istoty głównego nurtu ekonomii zamknąć
+ogólnym stwierdzeniem, że działalność ludzka została zawężona do kupna, sprzedaży, produkcji i konsumpcji, cechy ludzkie konsekwentnie zostały zredukowane do
+ekonomicznej racjonalności, a motywy zachowań – do maksymalizacji użyteczności.
+Wobec tego, że taka perspektywa dominuje, studenta ekonomii, ale także niejednego profesjonalistę, bulwersować może twierdzenie, że kapitalizm to nie wyłącznie
+rynek. Zwłaszcza w krajach naszego regionu, gdzie stosunkowo niedawno dokonało
+się przejście od realnego socjalizmu do kapitalizmu, zarówno ekonomiści jak opinia
+publiczna zazwyczaj stawiają znak równości między nimi [Ingham, 2011]. Tymczasem w świetle dzieł wybitnych myślicieli na zachodzie Europy jest to daleko idące
+uproszczenie. Na przykład słynny niemiecki socjolog M. Weber wskazuje, że rynki
+istniały na długo przedtem zanim z gospodarstwa domowego wydzieliło się przedsiębiorstwo, co, jego zdaniem, było podstawą rozwoju „gospodarki zarobkowej”
+i dało początek nowej, kapitalistycznej formie społeczeństwa [Weber, 2002]. Niemniej, według M. Webera, W. Sombarta, F. Braudela i innych, również w tej
+formacji obok aktywności nastawionej na zysk funkcjonuje gospodarka zorientowana na zaspokajanie potrzeb – lecz nie na zarobek. Znany francuski myśliciel
+i historyk F. Braudel twierdzi wręcz, że „gospodarka rynkowa” i „kapitalizm” to dwa
+różne pojęcia. Atrybutem tej pierwszej jest zaspokajanie potrzeb w łańcuchu
+produkcji, wymiany i konsumpcji, co oczywiście miało miejsce także w przedkapitalistycznych dziejach Europy. Atrybutem kapitalizmu natomiast jest akumulacja
+kapitału pieniężnego. O ile domeną gospodarki rynkowej jest sfera realna, kapitalistyczna „produkcja” zysków ma miejsce w sferze pochodnej, pieniężnej [Braudel,
+2013]. O tym, jak myślenie o kapitalizmie odbiega od ekonomii opartej na idei
+rynku, można przeczytać także w publikacjach współczesnych, na przykład autorstwa G. Hodgsona [2001].
+K. Polanyi definiuje „samoorganizujący się rynek” jako kwintesencję dynamiki
+kapitalizmu i jednocześnie wskazuje uzupełnienie, które jest niezbędne, aby kapitalizm mógł istnieć – samoorganizację społeczeństwa. Wymiana rynkowa to tylko
+
+6
+
+Anna Ząbkowicz
+
+jedna z form integracji życia gospodarczego2. Mechanizm rynkowy stał się dominującą formą integracji życia gospodarczego dopiero w XIX wieku, co nie zmienia
+faktu, że w gospodarce (również współczesnej) koordynacja w znacznej mierze odbywa się poza rynkiem. Z tego względu założenia ekonomii neoklasycznej (założenie ograniczoności zasobów, postulat maksymalizacji użyteczności) nie opisują
+uniwersalnej kondycji człowieka gospodarującego, lecz jedynie partykularny dylemat
+jednostki działającej w warunkach rynkowych. Oprócz wymiany rynkowej, funkcję
+integrującą aktywność ludzi spełnia redystrybucja i wzajemność. Tym, co nadaje
+procesom gospodarczym powtarzalność i przewidywalność są instytucje społeczne.
+Na przykład redystrybucja odbywa się w dużej mierze dzięki instytucji państwa;
+wzajemność konstytuuje instytucja rodziny itp. Chociaż rynek odwołujący się do
+rozproszonej konkurencji wydaje się wyróżniać kapitalizm na tle innych formacji
+historycznych, to częścią kapitalizmu jest także wspólnota oparta na spontanicznej
+solidarności, także państwo oraz firmy działające poprzez system hierarchicznej
+kontroli.
+Jeżeli zatem, mając na względzie materialne warunki bytu, przyglądamy się aktywności ludzi, wyłaniają się dwie ogólne domeny instytucjonalne. W jednej koordynacja aktywności następuje za pomocą konkurencji i rynku. Nie trzeba dodawać, że
+tą formą i tylko nią zajmuje się ekonomia w głównym nurcie. O drugiej domenie
+może być mowa dzięki roli, jaką w koordynacji działań spełniają instytucje społeczne – także poza rynkiem. Ową społeczną sferą dopełniającą kapitalizm zajmuje
+się głównie instytucjonalizm w ekonomii. Dzięki temu wyłania się obszerniejsza wizja gospodarki, gdzie oprócz mechanizmu rynkowego, polegającego na rozproszonej
+konkurencji, działa subsystem instytucji zakorzeniony w ramach organizacji i w sieciach społecznych. Ów społeczny kontekst może konkurencję wspomagać bądź ją
+mitygować.
+Zatem kapitalizm to nie tylko rynek, a ekonomia oparta na idei rynku nie jest
+w stanie opisać tego fenomenu. Nie tylko dlatego, że pojęcie kapitalizmu wymusza
+znacznie szerszy zakres analizy. Innym powodem jest redukcjonizm ekonomii liberalnej. Oddajmy głos jednemu z najbardziej wpływowych jej krytyków, K. Polanyi’emu: „Nie ma inicjatywy bardziej pozbawionej sensu niż próba sprowadzenia
+cywilizacji, jej istoty i fundamentów do ściśle określonej liczby instytucji, spośród
+których jedną uznaje się za kluczową i uzasadnia w kolejnych etapach analizy nieuchronnej autodestrukcji tej cywilizacji pewnymi mechanizmami rządzącymi jej gospodarką. Cywilizacje – podobnie jak życie – rodzą się wskutek interakcji ogromnej
+liczby niezależnych od siebie czynników, których zasady nie można zredukować do
+kilku wybranych kategorii” [Polanyi, 2010, s. 4; Wilkin, 2016, s. 123].
+Kapitalizm zwykle opisywany jest za pomocą kilku „atrybutów”. Najczęściej
+w celu jego ujęcia przywoływany jest rynek i własność prywatna, jak na przykład
+w haśle The New Encyclopaedia Britannica [1991, s. 831]: „Kapitalizm, nazywany także
+gospodarką wolnego rynku lub gospodarką wolnej przedsiębiorczości: system
+2
+
+Jest to teza postawiona w artykule K. Polanyi [1957], którą przytacza się za M. Kassmerem [2017].
+
+Czy istnieje ekonomia kapitalizmu?
+
+7
+
+ekonomiczny... w którym większość środków produkcji jest własnością prywatną,
+a produkcją kieruje i dochód dzieli mechanizm rynkowy”3. Bywa, że do listy kryteriów, obok rynku i własności prywatnej, dodaje się indywidualną wolność osobistą
+i swobodę umów, jak w definicji Encyklopedii PWN. Kryteria te nie są ani unikalne,
+ani ostre. Na przykład G. Hodgson [2015] wskazuje, że zorganizowane rynki istniały
+już pięć tysięcy lat temu w Chinach, a w rejonie Morza Śródziemnego jeszcze przed
+naszą erą; podobnie własność prywatna odgrywała podstawową rolę w wiodących
+gospodarczo regionach od tysięcy lat. Ponadto własność prywatną i wolność, jako
+podstawy aksjologiczne kapitalizmu, można w pewnej mierze zakwestionować, mając
+na względzie ich różne interpretacje i „zastosowania” [Miszewski, 2018, s. 65-68].
+Nie miejsce tu na przytaczanie szeregu definicji kapitalizmu, których w literaturze
+znajduje się wielka obfitość [zob. Hodgson, 2015]. Najważniejsze wydają się te
+z nich, które mówią, że dla kapitalizmu trudno jest znaleźć odpowiedni model i że
+jest on fenomenem zmiennym. Według jednej z nich, kapitalistyczny porządek
+społeczny to wynik rozwoju takich instytucji, jak własność prywatna, praca najemna
+(wage labour), spółki kapitałowe (joint-stock companies) i in., który przebiega w zróżnicowanym historycznym kontekście, w ramach narodowej tradycji i już funkcjonujących instytucji i jest naznaczony stosunkami siły i układem władzy [Streeck,
+2014, s. 24].
+3. Dynamika kapitalizmu i jej odzwierciedlenie w teorii
+Wielu myślicieli podkreśla na różne sposoby, że kapitalizm nie jest ani systemem,
+ani naturalnym stanem (state of nature). Niektórzy widzą go jako proces, instytucjonalizację, której konkretne formy nie są przesądzone i, jak W. Streeck, podkreślają
+dynamiczność i zmienność tej formacji w czasie. Inni dostrzegają, że kapitalizm
+wchodzi w różne konstelacje. Na przykład, F. Braudel [2013] uważa, że dynamiki
+kapitalizmu nie należy wiązać z sukcesją po niewolnictwie, poddaństwie i feudalizmie, lecz z synchronią. Zgodnie z tym stanowiskiem, kapitalizm dzieje się
+jednocześnie wraz z innymi formami życia materialnego tego samego społeczeństwa. W rezultacie należy mówić raczej o konfiguracjach niż o etapach, które sugerowałyby marsz zwartej kolumny w określonym kierunku. Kapitalizm nie ewoluuje,
+lecz w wyniku strukturalnych kryzysów się przepoczwarza, konfiguruje [Klementewicz, 2016].
+Kapitalistyczny charakter zmiennego układu instytucjonalnego przejawia się
+w tym, że motywuje on do akumulacji kapitału w prywatnych rękach oraz popycha
+do nieustannej ekspansji komercyjnych stosunków, bowiem ekspansja – zarówno
+w sensie skali działalności jak jej zakresu – jest wręcz warunkiem przetrwania kapitalizmu [Streeck, 2012]. Aby uchwycić dynamikę kapitalizmu, najczęściej przyjmuje
+się kryterium „sposobu produkcji”. Ta kategoryzacja wskazuje, wykorzystanie jakich
+3
+
+“Capitalism, also called, free market economy or free enterprise economy: economic system (...) in
+which most of the means of production are privately owned and production is guided and income
+distributed largely through the operation of markets.”
+
+8
+
+Anna Ząbkowicz
+
+zasobów miało w historii podstawowe znaczenie dla generowania dochodu i zysków.
+Oprócz źródeł akumulacji kapitału istotny jest także sposób organizacji produkcji.
+Trudno określić, kiedy w historii dążenie do akumulacji zysków i kapitału zdominowało aktywność gospodarczą. Według Braudela jeszcze między XV i XVIII
+wiekiem nawet w Europie, nie mówiąc o innych częściach „świata gospodarczego”
+przeważała gospodarka samowystarczalna, „gospodarka elementarna”, choć „miasta-imperia” tworzyły już wówczas wyspy kapitalizmu kupieckiego, gospodarki pieniężnej [Braudel, 2013, s. 103-104, 111-122]. Z początkiem XVIII wieku pierwszy
+rynek narodowy we współczesnym rozumieniu w Anglii dał podstawy do ekspansji
+gospodarki zarobkowej i, tym samym, zapoczątkował dominację kapitalizmu.
+Społeczeństwo, które obserwował i analizował A. Smith, oparte było na handlu
+czyli na wymianie rynkowej. Tę formę określić można jako kapitalizm firm rodzinnych i wolnego handlu. Kapitał skupiał się w rękach bogatych kupców stojących na
+czele łańcuchów wymiany, których Braudel nazywa „negocjantami”.
+Jednak już od końca XVIII wieku przemiany technologiczne i społeczne, zwane
+pierwszą rewolucją przemysłową, które mógł obserwować między innymi D. Ricardo, wyniosły wysoko w hierarchii społecznej rolę „inwestora” [Chang, 2011].
+Wprawdzie innowacje i przedsiębiorstwa były u początków kapitalizmu przemysłowego sprawą przemysłowców „pośledniego pochodzenia” [Braudel, 2013, s. 140].
+Jednak otwarcie nowych rynków poza Europą (portugalska i hiszpańska Ameryka,
+Indie, imperium osmańskie) pobudziło rozwój produkcji przemysłowej na skalę masową, a ta, zanim przyniosła zyski, wymagała wielkich nakładów na fabryki, kolej,
+zaopatrzenie z zagranicy itp., co wymusiło przyspieszoną koncentrację kapitału.
+„Wehikułami” do pozyskiwania funduszy na potrzeby inwestycji w masową produkcję przemysłową i niezbędną infrastrukturę stały się spółki akcyjne notowane na
+giełdzie.
+Koncentracja kapitału wiązała się ze zmianami w strukturze rynku i organizacji
+produkcji. W końcu XIX wieku spółki akcyjne z ograniczoną odpowiedzialnością
+były już zjawiskiem powszechnym, a giełdy papierów wartościowych stały się
+rynkami znaczącymi w gospodarce. Widoczna w sferze finansów i w sferze produkcji koncentracja aktywów, uprawnień, praw własności sprzyjała osiąganiu pozycji
+monopolistycznej. Podobny efekt na strukturę wymiany rynkowej wywierały porozumienia biznesowe – kartele i inne formy zrzeszania się firm. Charakterystyczne dla
+XIX wieku są wielkie trusty sprzężone z eksportem kapitału i militaryzacją
+gospodarki oraz syndykaty robotnicze, które przeciwstawiały się władzy potężnych
+pracodawców. Ten okres jest opisywany jako „leseferyzm” (W. Eucken), „ekspansja
+rynku światowego” (K. Polanyi), „imperializm” (W. Lenin). Symptomatyczne, że
+dopiero w tym czasie wykluwa się na dobre pojęcie kapitalizmu4. W ostatnich dekadach XIX wieku i pierwszych dekadach XX wieku przyspieszyła koncentracja
+
+4
+
+F. Braudel początki zadomowienia tego konstruktu w nauce o społeczeństwie wiąże z publikacją
+dzieła W. Sombarta Der moderne Kapitalismus w 1902 r. w Lipsku „Kapitalizm bowiem w szerokim
+sensie datuje się od początku XX wieku” [Braudel, 2013, s. 60].
+
+Czy istnieje ekonomia kapitalizmu?
+
+9
+
+produkcji i kapitału oparta na bankach. Współcześnie okres ten określa się jako
+pierwszą falę globalizacji konkurencji [Ingham, 2011, s. 260].
+Wspomniane wyżej konfiguracje kapitalizmu, charakterystyczne dla gospodarki
+w Europie i w Ameryce Północnej w XVIII i XIX wieku, stały się impulsem analiz
+w wyjątkowo inspirującym dla myśli ekonomicznej okresie, mianowicie w pierwszej
+połowie XX wieku, kiedy ukazało się między innymi główne dzieło W. Euckena
+„Podstawy polityki gospodarczej”. Odwołanie się do tej książki ma tę wartość
+z punktu widzenia tematu, że przybliża obraz gospodarki kapitalistycznej w danym
+miejscu i czasie, kontrastujący pod wieloma względami z ideą rynku i konkurencji.
+Przesłaniem tego sztandarowego dzieła ordoliberalizmu jest wręcz poszukiwanie
+ustroju opartego na konkurencji, który różni się całkowicie od „polityki laissez-faire”, inaczej – leseferyzmu [Eucken, 2005, s. 296]. W ocenie Euckena [2005, s. 199]
+„od początku uprzemysłowienia nie udało się zbudować efektywnego systemu sterowania (...)”. Klęska polityki laissez-faire ma związek z autonomiczną prywatną
+władzą ekonomiczną, która wzmacnia tendencję do centralizacji i rujnowania mechanizmu cenowego5 [Eucken, 2005, s. 189-193, 211-221]. Uzasadnienie tych poglądów można by streścić następująco. W gospodarce rynkowej koordynacja odbywa
+się za pośrednictwem cen. Ład rynkowy zapewnia zgranie potrzeb i dostępnych
+czynników produkcji za pomocą cen zracjonalizowanych [Eucken, 2005, s. 202-203,
+207, 296]. Fundamenty tego ładu, inaczej – „ustroju gospodarczego” tworzą zasady
+określone przez państwo na poziomie konstytucyjnym. Leseferyzm ukształtowanie
+tych fundamentów pozostawił w znacznym zakresie w prywatnych rękach. Swoista
+symbioza władzy państwowej i prywatnych grup dominujących doprowadziła do
+protekcjonizmu handlowego, który wzmacniał monopole i pozwoliła na zdominowanie procesu gospodarczego przez ceny monopolistyczne. Mówiąc o grupach
+dominujących w gospodarce, Eucken ma na myśli władzę poszczególnych firm,
+koncernów, karteli, konfederacji pracodawców i związków zawodowych. Wolność
+prywatnych kontraktów została wykorzystana między innymi do tworzenia różnego
+rodzaju „syndykatów”. W tym układzie instytucjonalnym aktywność grup dominujących ogranicza wolność osobistą, a państwo nie stwarza dostatecznej ochrony
+przed prywatnymi podmiotami [Eucken, 2005, s. 56-96].
+Pierwsza połowa XX wieku przynosi zarówno katastrofy gospodarcze i wojenne
+jak i oznaki „oswajania” owego „dzikiego” kapitalizmu. Po bezprecedensowej ekspansji na przełomie lat dwudziestych i trzydziestych XX wieku nastąpiło najgroźniejsze w historii kapitalizmu załamanie. Wielka Depresja w latach trzydziestych XX
+wieku stała się początkiem rozpadu międzynarodowego ładu walutowego i politycznego. Reakcją na erozję instytucji liberalnego kapitalizmu był faszyzm i wywołana
+5
+
+Podobnie Eucken ocenia skutki „eksperymentalnego” centralnego sterowania gospodarką w latach
+dwudziestych i trzydziestych XX wieku w reżimach faszyzmu, socjalizmu i Nowego Ładu (New
+Deal). Obserwacja ograniczania swobód jednostki, któremu towarzyszy centralizacja sterowania
+gospodarką nie tylko w hitlerowskich Niemczech, ale także we Włoszech Mussoliniego, w Związku
+Radzieckim i innych krajach europejskich wydaje się bezpośrednim powodem napisania Podstaw
+polityki gospodarczej.
+
+10
+
+Anna Ząbkowicz
+
+przezeń II wojna światowa. Polityczne konsekwencje Wielkiej Depresji prowadzą do
+tego, że rośnie znaczenie interwencji państwa. Zgodnie z nowym konsensem
+politycznym, którego pierwszym przykładem jest New Deal w Stanach Zjednoczonych, państwo nie tylko powinno nakładać ograniczenia na praktyki monopolistyczne i nadzorować rynki finansowe, ale i uaktywnić się także jako pracodawca
+ostatniej instancji i prowadzić sprzyjającą wysokiemu zatrudnieniu politykę makroekonomiczną. Czas II wojny światowej umacnia rolę państwa. Państwo, które
+mobilizowało do wojny po obu stronach, w czasach gospodarki wojennej wypracowało metody i instytucje centralistycznego zarządzania. Niektóre z nich wojnę
+przetrwały i służyły interwencjonizmowi po wojnie. Zarazem w klasie politycznej
+ugruntowuje się świadomość, że społeczeństwom, które ucierpiały w wojnie totalnej
+jak nigdy, trzeba stworzyć perspektywy lepiej urządzonego życia. Nie bez znaczenia
+było wyzwanie realnego socjalizmu, który po wojnie zatrważająco rozprzestrzenił się
+poza granice Związku Socjalistycznych Republik Radzieckich. Już w latach wojny
+powstały ważne próby intelektualnego rozrachunku z tym okresem, a wśród nich
+przywoływane poniżej książki: dzieło życia K. Polanyi’ego [2010] i książka F. von
+Hayeka [2005]. Po II wojnie światowej rozwijają się konkurujące ze sobą systemy
+idei i zarazem wielkie programy społeczne: ordoliberalizm, keynesizm, państwo
+opiekuńcze (welfare state), socjalizm (np. wkład M. Kaleckiego). Wiąże się z nimi
+obietnica stabilizacji politycznej, makroekonomicznej i socjalnej, która nabrała
+szczególnego znaczenia po wojennej traumie.
+Podstawę kapitalistycznej akumulacji nadal stanowi masowa produkcja przemysłowa, jednak międzynarodowy przepływ kapitału poddany zostaje ograniczeniom,
+a operacje finansowe podlegają bardziej rygorystycznej kontroli państwa. W stosunkach przemysłowych zachodzą istotne zmiany, od których ta konfiguracja po II wojnie światowej zyskuje miano „fordyzmu”. W wielkich przemysłowych korporacjach
+przyjmuje się innowacyjna organizacja produkcji, zainicjowana przez H. Forda.
+Zarazem prawo pracy chroni zatrudnionych w nieporównywalnie większym zakresie, a specjalne urzędy stają na straży uczciwej konkurencji. Polityka „antymonopolowa” licencjonuje i reguluje wejścia wielkich firm do sektorów, gdzie typowe są
+małe fabryki, farmy i sklepy6. Stosunki produkcji (industrial relations) w tym okresie
+wyróżniają się względną pewnością i trwałością zatrudnienia, zrównoważonym
+układem między pracą i kapitałem, silnymi związkami zawodowymi i wysokimi
+podatkami dochodowymi oraz stabilnością walut, gwarantowaną dzięki powiązaniu
+walut narodowych z dolarem, a dolara ze złotem.
+Opisywane zjawiska świadczą o tym, że w krajach zachodnioeuropejskich
+i w Stanach Zjednoczonych kapitalizm przechodzi kolejne rekonfiguracje. Dzieło
+K. Polanyi’ego Wielka transformacja prowadzi do ich źródeł – do wielkiej transformacji w siódmej dekadzie XIX wieku. Oto jak autor opisuje sytuację w poprzedzających ją dekadach: „(...) zysk i dochód czerpane z wymiany nigdy przedtem nie
+6
+
+Koncentracja w strukturach korporacyjnych jednak postępuje – mimo polityki antymonopolowej.
+Owa żywotna skłonność kapitalizmu znajduje odbicie w dziełach innych wybitnych ekonomistów.
+Poglądy na ten temat są bardzo wyraziste w wypowiedziach J.K. Galbraitha [1992].
+
+Czy istnieje ekonomia kapitalizmu?
+
+11
+
+odgrywały tak ważnej roli w gospodarce” [Polanyi, 2010, s. 53]. Masowość produkcji
+i wysoki koszt wytwarzających ją maszyn podniosły rangę możliwości zbytu
+i wymiany, a „wraz z ustanowieniem międzynarodowego systemu waluty złotej
+wprowadzono w życie najbardziej ambitny projekt rynkowy w historii, zakładający
+absolutną niezależność rynków od władz państwowych” [Polanyi, 2010, s. 258].
+Jeszcze do lat dwudziestych i trzydziestych XX wieku utrzymywały się pozostałości
+dziewiętnastowiecznego liberalnego ładu. Analiza Polanyi’ego odsłania stopniową
+erozję leseferystycznego układu instytucjonalnego, aby wesprzeć tezę, że idea
+samoregulującego się rynku jest utopią, bowiem „taka konstrukcja nie mogła (...)
+istnieć przez dłuższy czas, nie unicestwiając jednocześnie ludzkich i przyrodniczych
+podstaw istnienia społeczeństwa” [Polanyi, 2010, s. 4]. Zagrożenie wynikało z tego,
+że rynkowe stosunki objęły także dobra szczególne, newralgiczne, to jest pracę,
+ziemię i pieniądz. Ponieważ rynki tych „fikcyjnych” towarów groziły zniszczeniem
+społeczeństwa, „podejmowało ono działania ochronne mające zapobiegać ich tworzeniu albo – jeżeli już istniały – ingerować w ich swobodne funkcjonowanie”
+[Polanyi, 2010, s. 239]. Agentem społeczeństwa stało się państwo. Odpowiednie
+ustawodawstwo oraz interwencjonizm oznaczały przeciwstawienie zasadzie samoregulującego się rynku zasady ochrony społeczeństwa. Polanyi przedstawia ten proces
+pod nazwą „dwutorowego ruchu” (double movement), który w rozwoju gospodarczo-społecznym działa niczym system immunologiczny organizmu [Polanyi,
+2010, s. 156]. Polanyi odnotowuje objawy wyłączania „fikcyjnych towarów” z rynku
+w XX wieku [Polanyi, 2010, s. 297-298] i przewiduje przełom: „System rynkowy
+przestanie się sam regulować, nawet co do zasady, ponieważ nie będzie obejmował
+pracy, ziemi i pieniądza” [Polanyi, 2010, s. 297]. Rzeczywistą wolność gwarantuje
+taki system, w którym praca nie jest towarem, a czas wolny od pracy i bezpieczeństwo nie jest udziałem wybranych (zamożnych) członków społeczeństwa [Polanyi,
+2010, s. 305]. Wolność i bezpieczeństwo dla wszystkich zagwarantować może
+jedynie regulacja i kontrola ze strony państwa7 [Polanyi, 2010, s. 303]. Zgodnie
+z narracją „dwutorowego ruchu” w XIX wieku siły rynku stopniowo wyłamywały
+się z okowów polityki (dis-embedding); ten proces z czasem spowodował społeczne
+protesty, głównie ze strony zorganizowanych reprezentacji pracobiorców; napór na
+polityków prowadził do nowych regulacji, kompromisu (niejednokrotnie z udziałem
+zorganizowanych pracodawców) i ponownego wbudowania aktywności gospodarczej w ramy społeczne (re-embedding). Trójstronna korporatystyczna reprezentacja
+interesów została odbudowana w niektórych wysokorozwiniętych krajach kapitalistycznych po II wojnie światowej (neo-korporatyzm), co zdawało się potwierdzać
+tezę Polanyi'ego, że dokonała się naprawdę wielka transformacja kapitalizmu. Okres
+100 lat, począwszy od 1870 r., niektórzy skłonni są uważać za czas „zorganizowanej
+nowoczesności (organised modernity)” [Magnusson, Strath, 2016 s. 136].
+
+7
+
+Krytyczna ocena ortodoksyjnego liberalizmu Polanyi’ego kształtowała się w opozycji do poglądów
+Misesa i Hayeka [Polanyi, 2010, wprowadzenie F. Blocka, XXII].
+
+12
+
+Anna Ząbkowicz
+
+Rozliczne „szoki”, które dotknęły najwyżej rozwinięte gospodarki kapitalistyczne
+w latach siedemdziesiątych XX wieku, spowodowały kolejny przełom. Nowa
+konfiguracja bywa nazywana przez niektórych myślicieli postindustrializmem, przez
+innych – ponowoczesnością [Bauman, 2013]. W ten sposób oznacza się schyłek
+intensywnej industrializacji, której doświadczyły nie tylko rozwinięte gospodarki
+kapitalistyczne, ale po II wojnie światowej także peryferyjne kraje „doganiające”
+[Leszczyński, 2013]. Industrializacji, która związana była z wiarą w postęp – nie
+tylko technologiczny, ale i społeczny (modernizm, modernity).
+W języku ekonomistów końcowe dekady XX i początek XXI wieku często
+określa słowo „neoliberalizm”, które przyjęło się – jak sądzę – między innymi z tego
+względu, że przypomina leseferystyczną konfigurację z poprzedniego przełomu wieków. Istotną cechą współczesności jest liberalizacja przepływu kapitału ponad granicami, ochrona inwestycji – głównie zagranicznych i budowa korzystnej dla nich
+infrastruktury. W związku z tym mówi się o drugiej fali globalizacji [Ingham, 2011].
+Jak komentują Magnusson i Strath [2016, s. 124], jest to zarazem odwrót od idei solidarności, która zdawała się zyskiwać na znaczeniu po roku 1870. W zamian
+dynamiczny wzrost nowo zglobalizowanej gospodarki, uwolnionej z okowów nałożonych przez państwo po pierwszej fali globalizacji, ma według neoliberalnej doktryny tworzyć możliwości zatrudnienia i reintegrować wykluczonych z rynku pracy.
+Na znaczeniu zyskuje nie tylko eksport kapitału, który służy przedsięwzięciom
+produkcyjnym i umożliwia korporacjom budowanie sieci opartych na zlecaniu produkcji (out-sourcing). Rośnie również znaczenie inwestycji finansowych jako źródła
+dochodu. Zakupy nie tyle towarów i komponentów do produkcji, co akcji innych
+korporacji i papierów dłużnych pobudzają koncentrację bogactwa i akumulację aktywów w strukturach korporacyjnych. Korporacje niefinansowe w coraz większym
+zakresie zarabiają na inwestycjach w aktywa finansowe [Krippner, 2005, 2011].
+W związku z tym, na niespotykaną skalę rosną obroty i dochody pośredników na
+rynkach finansowych. Zjawiska te określa nowy termin „finansjeryzacja” (financialization). U ich podłoża leży problem nadwyżki „wolnego” kapitału, który szuka
+coraz to nowych zastosowań za pośrednictwem rynków finansowych, na co w ostatnich dekadach XX wieku zwracali uwagę między innymi H. Minsky8, Ch.P. Kindleberger i inni. Liberalizacja międzynarodowych przepływów kapitału, w połączeniu
+z liberalizacją transakcji na wewnętrznych rynkach finansowych, sprzyja koncentracji
+aktywów pod jednym zarządem i powstawaniu quasi-monopoli nie tylko w przemyśle, ale również w szeregu dziedzin gospodarczej aktywności dotąd nie „skolonizowanych” (korporacje w rolnictwie, w sprywatyzowanej telekomunikacji, w sektorze
+technologii informatycznych IT itp.).
+Końcowe dekady XX i początek XXI wieku Magnusson i Strath [2016] nazywają
+czasem F.A. von Hayeka. Do tego konieczna jest wolta, bowiem dorobek tego
+wybitnego myśliciela, który mógłby mieć znaczenie dla interpretacji współczesnego
+8
+
+Analizy Minsky’ego słusznie wiążą te zjawiska z przedwojennym kapitalizmem i procesami, które
+doprowadziły do Wielkiej Depresji. Według opracowania uznanego amerykańskiego Levy Insitute
+wówczas kierowali na nie uwagę R. Hilferding, Th. Veblen i J.M. Keynes [Wray 2011].
+
+Czy istnieje ekonomia kapitalizmu?
+
+13
+
+nam kapitalizmu, powstał głównie w środkowych dekadach XX wieku. Myśl Hayeka
+służyła konserwacji intelektualnych podstaw liberalizmu gospodarczego, którymi
+zachwiały pierwsza wojna światowa, rewolucja w Rosji oraz atrakcyjność idei socjalistycznych. Niemniej do przywołania niektórych jego poglądów w tym miejscu
+artykułu upoważniają co najmniej dwa względy. Przede wszystkim to, że formowały
+się one pod wpływem aktywnej obserwacji realnych gospodarek, wyostrzonej
+historycznymi wyzwaniami wspomnianymi wcześniej9. Drugim głównym powodem
+jest spektakularny dowód uznania, jakim była nagroda im. Nobla przyznana Hayekowi, w 1974 r. Faktycznie, uważa się, że idee Hayeka, a także jego mistrza L. von
+Misesa i ich „neo-austriackich” następców posłużyły – często nie bezpośrednio –
+neoliberalnej doktrynie, tworząc raczej niespójny zlepek z teorią amerykańskiej
+szkoły monetarystów. O samej doktrynie powiemy tylko tyle, że jest to zestaw idei
+o silnym przesłaniu. Zdaniem krytyków neoliberalizmu, idee te nie tworzą systemu,
+lecz raczej służą do racjonalizacji aktualnych okoliczności i bieżącej polityki. Przez
+media, polityków i ekonomistów są propagowane w połączeniu z popularnym,
+masowym rozumieniem wartości takich jak wolność osobista, konkurencyjność,
+demokracja [Bayliss i in., 2015, s. 5]. W polityce gospodarczej neoliberalizm generalnie osłania wielki przemysł i wielkie finanse, chroni raczej wartość pieniądza niż
+zatrudnienie, jest niechętny związkom zawodowym i skłonny do prywatyzowania
+usług publicznych i ubezpieczeń społecznych [Magnusson, Strath, 2016, s. 111;
+Chang, 2011, s. 60].
+Przeprowadzanie analogii między neoliberalizmem i poglądami Hayeka wydaje
+się zadaniem nazbyt ryzykownym. Tutaj chcę jedynie zwrócić uwagę na to, że jego
+filozofia społeczna tworzyła odpowiedni intelektualny klimat dla kierunku zmian naszkicowanego wyżej. Według Hayeka kapitalizm to dominacja porządku wytwarzanego w ramach wzajemnych oddziaływań wolnych, suwerennych jednostek. W ich
+wyniku rodzi się cicha wiedza (tacit knowledge), którą ludzie odkrywają na rynku
+przez nieustanne dostosowania i spontaniczną selekcję. Rynek zbiera rozproszone
+informacje, których jednostka nie zna w całości do końca, i za pomocą cen ukazuje
+ograniczenia i możliwości racjonalnego wyboru. Aby jednak taki „ład działania”
+(Handelnsordnung) się tworzył, ceny muszą być dobrymi nośnikami informacji; do
+tego z kolei wszystkich uczestników musi obowiązywać zasada wolnej konkurencji
+[Kostro, 2001]. Zgodnie z tą wizją porządek w działaniach milionów ludzi to rodzaj
+„samoorganizacji społeczeństwa w trakcie wymiany” [Szulczewski, 2017]. Polityka
+gospodarcza, dzięki poznaniu reguł wyłaniających się ze spontanicznego porządku,
+może je utrwalać w postaci reguł prawnych, tworząc innego rodzaju porządek
+kreowany świadomie przez państwo, oparty na demokratycznej bądź autorytarnej
+legitymacji10. Zadanie państwa polega na ograniczeniu „wolności do” za pomocą
+9
+10
+
+Pamiętny jest udział Hayeka w powojennej dyskusji z O. Lange „ile państwa, ile rynku”, w której
+zabierali głos również inni znakomici ekonomiści, między innymi L. von Mises.
+L. Magnusson i B. Strath zwracają uwagę, że wiara Hayeka w indywidualną aktywność na rynku
+faktycznie obywała się bez demokratycznej polityki i bez demokratycznych reguł. Rynek był rodzajem „samogrającego pianina” i to, jak powinien grać, należało pozostawić decyzji (ekonomicznych)
+
+14
+
+Anna Ząbkowicz
+
+przejrzystych reguł postępowania i zarazem na zagwarantowaniu każdej jednostce
+prywatnej sfery spontanicznego działania, której ani państwu, ani żadnej innej
+władzy nie wolno naruszać, chyba że zostanie zagrożona sfera prywatności innych
+[Kostro, 1997, s. 53]. Państwo odpowiedzialne jest za „ramy prawne w celu
+spowodowania, by konkurencja była tak efektywna i dobroczynna, jak to tylko możliwe”, a także powinno egzekwować ich przestrzeganie [Hayek, 1998, s. 125]. Natomiast „rząd ograniczony” nie ma uprawnień do swobodnego określania zakresu
+swojej władzy. Jego zadaniem jest nie tyle ustanawianie określonego porządku,
+co wymuszanie przestrzegania praw generalnych, w obrębie których chronione są
+fundamentalne wartości, mianowicie własność prywatna, wolność jednostki oraz
+prawo do życia i pokoju [Kostro, 2001, s. 144-145].
+Odnośnie do państw realnie funkcjonujących, Hayek, podobnie jak Eucken, nie
+miał złudzeń. Według niego, zagrożeniem dla naturalnego porządku może być zarówno państwo totalitarne jak państwo podatne na partykularne interesy. Ostrzeżenie przed skutkami socjalizmu i totalitaryzmu odpowiednio w wariancie rosyjskim
+i niemieckim z lat trzydziestych zawarł w studium Der Weg in die Knechtschaft z 1943 r.
+Jednak również demokratyczne państwo łamie rządy prawa11, czyli nadużywa danej
+mu władzy. „Kupując” grupy interesu, stwarza notoryczną presję inflacyjną, a przez
+to – psuje sygnały cenowe i łamie zasadę konkurencji, które są podstawą kształtowania spontanicznego porządku i otwartego społeczeństwa. Zorganizowane interesy
+w gospodarce (w tym: formy władzy gospodarczej w biznesie), wobec których państwo nie jest bezstronne, ograniczają wolność innych uczestników życia gospodarczego.
+Szczególne zagrożenie dla naturalnego porządku stanowi tzw. państwo dobrobytu. Niemożliwe jest sprecyzowanie celu sprawiedliwości społecznej. Rząd, pragnący działać na rzecz takiego celu, ingeruje natomiast w procesy rynkowe i staje się
+podatny na naciski różnych rywalizujących grup interesu. Fundamentalna zasada
+wolnego wyboru zostaje naruszona, co prowadzić będzie do ustroju totalitarnego
+i zniewolenia [Hayek, 2005]. Z tych względów Hayek odrzuca zasadność redystrybucji dochodów w imię tzw. sprawiedliwości dystrybutywnej. Za jedynie sprawiedliwą uznaje formalną równość szans konkurowania na rynku. Sprawiedliwości stanie
+się zadość, jeśli wszystkim członkom danego społeczeństwa dane będą: osobista
+wolność i równość wobec prawa, jeśli wymogi dotrzymywania kontraktów i prawa
+własności zostaną zachowane. Wówczas dobrobyt stanie się udziałem wszystkich,
+„wszystkie łodzie zostaną podniesione”, a nowe szanse, tworzone ciągle dzięki liberalizacji i odpowiednio wykorzystane, doprowadzą w długim okresie do zwiększenia
+
+11
+
+ekspertów. Z perspektywy Hayeka demokracja rozumiana jako proces negocjacji mających na celu
+mediację różnych opinii i interesów, stawała się czymś niebezpiecznym [Magnusson, Strath, 2016,
+s. 139].
+Państwo we wszystkich swych działaniach podlega tym samym prawom co obywatele i zobowiązane jest ich przestrzegać. Koncepcja rządów prawa, przyznając państwu wyłączność na stosowanie przymusu w ściśle określonych okolicznościach, poza tym pozbawia go tej wyłączności; mimo
+że reguły gry w dużej mierze ustala państwo, nie może swojej władzy wykorzystywać po to, by dyskryminować inne podmioty [Kostro, 2001, s. 147].
+
+Czy istnieje ekonomia kapitalizmu?
+
+15
+
+politycznej i kulturowej spójności12. Filozoficzno-ekonomiczna wizja spontanicznego ładu, uwarunkowanego porządkiem konkurencyjnym, przesądzała też stosunek
+Hayeka do monopolu. Nie ulega wątpliwości, że był on niechętny zarówno w odniesieniu do monopolu państwowego, jak i monopolu korporacyjnego. W pierwszej
+sprawie Hayek pisał w „Konstytucji wolności”: „Samo uznanie, że istnieją potrzeby,
+których rynek nie zaspokaja, nie powinno przemawiać za tym, aby państwo było
+jedyną agencją uprawnioną do podejmowania zadań, które nie są opłacalne; nie
+powinno tu być żadnego monopolu, lecz jak najwięcej niezależnych ośrodków, które
+się tymi potrzebami zajmują” [Kostro, 2001, s. 148]. Ten postulat odnieść można nie
+tylko do ekonomicznego zaangażowania państwa w formie monopolistycznych
+przedsiębiorstw państwowych. Wydaje się on mieć zastosowanie również do
+potrzeb społecznych w sensie decentralizacji publicznych systemów zabezpieczeń
+społecznych, które legitymizowały państwo dobrobytu. W drugiej kwestii Hayek
+przesuwa się z pozycji rzeczowego krytyka rozwiązań instytucjonalnych, sprzyjających praktykom monopolistycznym ku uznaniu bezsilności polityki antymonopolowej. Mianowicie, w publikacji wydanej bezpośrednio po II wojnie Hayek
+wskazywał te prawa własności, które przyczyniły się do rozrostu „monopoli korporacyjnych” [Hayek, 1998, s. 129-132]. Natomiast w późniejszej Konstytucji wolności
+można znaleźć pogląd, że wprawdzie „monopol jest z pewnością niepożądany”
+z powodu utrudnień „w dostępie do jakiejś branży przemysłu lub handlu”, ale wyposażenie państwa w uprawnienia do jego zwalczania prowadzi jedynie do mnożenia
+tych utrudnień [Hayek, 2011, s. 262-263]. Innymi słowy, państwa nie tylko okazały
+się nieskuteczne w powściąganiu koncentracji siły ekonomicznej, ale, co gorsza,
+koszty prowadzonej przez nie polityki antymonopolowej przewyższają straty społeczne spowodowane funkcjonowaniem monopoli.
+4. Podsumowanie
+Wydaje się, że ekonomia kapitalizmu wymaga umiejętności nie mniejszych niż
+umiejętności konieczne w głównym nurcie teorii ekonomii. Nie o opanowanie narzędzi matematycznych warunkujących dostęp do teorii i uprawianie teorii tu chodzi,
+lecz o umiejętności łączenia wiedzy o społeczeństwie w konstrukty i wizje, które
+mogą przybliżyć nas do zrozumienia sensu porządku i zagrożeń w gospodarczej aktywności ludzi. Wnikliwi obserwatorzy kapitalizmu, do których odwoływał się artykuł, mieli wszechstronne wykształcenie. Eucken studiował historię, politologię,
+ekonomię i prawo, Polanyi – prawo i filozofię, Hayek był ekonomistą, prawnikiem
+i adeptem nauk politycznych. Być może ekonomiści częściej powinni nawiązywać
+współpracę z socjologami, politologami, prawnikami i historykami, a mniej koncentrować się na zakreślaniu granic tożsamości ekonomii?
+12
+
+Zdaniem Magnussona i Strath’a [2016] kilka dekad panowania tej narracji nad wieloma umysłami
+z pewnością ma związek z obniżeniem solidarności społecznej.
+
+16
+
+Anna Ząbkowicz
+
+Ekonomia kapitalizmu wymaga nie tylko umiejętności, ale też – uwagi. I to nie
+wyłącznie ze względu na brzydką cechę kapitalizmu, jaką są załamania aktywności
+produkcyjnej i ufności w aktywa finansowe oraz pośredników finansowych, które
+powodują dramatyczne straty w sensie materialnym i ludzkim. Kapitalizm to niezwykle zmienny fenomen, który nie daje się zamknąć raz w dostatecznie ogólnym
+modelu. Z tego powodu wymaga nieustannej czujności. W tej „grze” profesjonalistów z kapitalizmem chodzi o wysoką stawkę. Ci, którzy jak Eucken i Hayek wierzą,
+że to porządek społeczny przynoszący wartość przez nich cenioną najbardziej –
+osobistą wolność, zdają sobie sprawę, że ciągle trzeba poszukiwać rozwiązań, które
+ochronią kapitalizm przed nim samym. Problem ma wymiar inny niż tak zwane cykliczne kryzysy, bo wiąże się z wbudowaną w kapitalizm władzą – władzą państwa
+i siłą „grup dominujących”, czyli „władzą korporacyjną”. Władza daje wpływ i kontrolę, o której tak dobitnie wyraził się Hayek: „Kontrola gospodarki nie jest zwykłym kontrolowaniem części ludzkiego życia, które można oddzielać od reszty; jest
+to kontrola środków realizacji wszystkich naszych celów”. Z kolei inni, na przykład
+K. Polanyi czy współcześnie Z. Bauman, zagrożenie widzą w tendencji „samoorganizującego się rynku” do utowarowienia wszystkich aspektów życia i przeliczania
+standardu życiowego na obfitość dóbr, de facto, konsumpcji. Z tej perspektywy
+stawia się kwestię barier, które powstrzymałyby „gospodarkę zarobkową”, istotę
+kapitalizmu i pytania o granice ekspansji. Wagę poszukiwania odpowiedzi na nie
+dobrze oddają myśli sformułowane przez Baumana: „Nabiera dziś intensywności
+i rozpowszechnienia przeświadczenie, że nieskończonego wzrostu gospodarczego
+i postępu nie da się osiągnąć na planetarną skalę (...)”. Eksterioryzacja kosztów
+i życie na kredyt muszą „prowadzić, i to w bliskiej przyszłości, do zbrojnych konfliktów nowego zgoła typu. Jak to ujął H. Weltzer, autor studium prognostycznego
+nadciągających „wojen klimatycznych”: w obecnym stuleciu ludzie będą zabijani nie
+z przyczyny antagonizmów ideologicznych jak w wieku poprzednim, ale z tego powodu, że jedni korzystają z zasobów, których drudzy pożądają (...)” [Bauman, 2013,
+s. 14-15]. Czy to wystarczy, by wysiłek poznawczy ekonomistów skierować w większym stopniu na kapitalizm?
+Literatura
+Bauman Z., 2013, Przedmowa, [w:] Skok w nowoczesność. Polityka wzrostu w krajach
+peryferyjnych 1943-1980, Leszczyński A., Wydawnictwo Krytyki Politycznej, Warszawa.
+Bayliss K., Fine B., Robertson M., Saad-Filho A., 2015, Thirteen Things You Need to
+Know about Neoliberalism, referat na konferencji “Impacts of Financialization on
+Society, Environment and Economy”, FESSUD Annual Conference, 14-17.10,
+Lizbona.
+Braudel F., 2013, Dynamika kapitalizmu, Wydawnictwo Aletheia, Warszawa.
+Chang H.-J., 2011, 23 Things They Don't Tell You about Capitalism, Penguin Books,
+London.
+
+Czy istnieje ekonomia kapitalizmu?
+
+17
+
+Encyklopedia PWN: hasło kapitalizm, https://encyklopedia.pwn.pl/haslo/kapitalizm;3920039.html [data wejścia: 4 września 2017].
+Eucken W., 2005, Podstawy polityki gospodarczej, Wydawnictwo Poznańskie, Poznań
+Galbraith J.K., 1992, Ekonomia w perspektywie. Krytyka historyczna, PWE, Warszawa.
+Hayek F., 1998, Indywidualizm i porządek ekonomiczny, Znak, Kraków.
+Hayek F., 2005, Droga do zniewolenia, Arcana, Kraków.
+Hayek F., 2011, Konstytucja wolności, Wydawnictwo Naukowe PWN, Warszawa.
+Hodgson G.M., 2001, The evolution of capitalism from the perspective of institutional and
+evolutionary economics, [w:] Capitalism in Evolution Global Contentions – East and West,
+Hodgson M.G., Itoh M., Yokokawa N. (red.), Edward Elgar Publishing Cheltenham, UK, Northampton, MA, USA.
+Hodgson G.M., 2015, Conceptualizing Capitalism: Institutions, Evolution, Future, University of Chicago Press, Chicago.
+Ingham G., 2011, Kapitalizm, Wydawnictwo Sic!, Warszawa.
+Kassner M., 2017, Gospodarka jako zinstytucjonalizowany proces. Instytucjonalizm Karla
+Polanyiego i jego etyczne konsekwencje, „Annales. Etyka w Życiu Gospodarczym”,
+vol. 20, nr 2, s. 45-61.
+Klementewicz T., 2016, Świat urządzony według potrzeb korporacji, wywiad Krzysztofa
+Pilawskiego, „Przegląd”, 1-7.02.
+Kostro K., 1997, Ekonomiczna aktywność państwa w teorii Friedricha Augusta von Hayeka,
+„Ekonomista”, nr 1.
+Kostro K., 2001, Hayek konta socjalizm. Debata socjalistyczna a rozwój teorii społeczno-ekonomicznych Friedricha Augusta von Hayeka, Wydawnictwo DiG, Warszawa
+Krippner G.R., 2005, The financialization of the American economy, “Socio-Economic
+Review”, vol. 3(2), pp. 173-208.
+Krippner G.R., 2011, The Political Origins of the Rise of Finance, Harvard University
+Press, Cambridge, Massachusetts, London, England.
+Leszczyński A., 2013, Skok w nowoczesność. Polityka wzrostu w krajach peryferyjnych 19431980, Wydawnictwo Krytyki Politycznej, Warszawa.
+Magnusson L., Strath B., 2016, A Brief History of Political Economy. Tales of Marx, Keynes
+and Hayek, Edward Elgar Publishing, Cheltenham, UK; Nothhampton, MA, USA.
+Miszewski M., 2018, Aksjologiczne podstawy kapitalizmu i pojęcie ładu instytucjonalnego, [w:]
+Zrozumieć kapitalizm. Podejście ewolucyjno-instytucjonalne, Ząbkowicz A., Miszewski
+M., Chmielnicki P., Czech S. (red.), Forum Myśli Instytucjonalnej, SosnowiecKraków.
+Polanyi K., 1957, The Economy as Instituted Process, [w:] Trade and Market in Early
+Empires. Economies in History and Theory, Polanyi K., Arensberg C.M., Pearson
+H.W. (ed.), The Free Press, Glencoe, Illinois.
+Polanyi K., 2010, Wielka transformacja, Wydawnictwo Naukowe PWN, Warszawa.
+Smith A., 2015, Badania nad naturą i przyczynami bogactwa narodów, t. 1 i 2, Wydawnictwo Naukowe PWN, Warszawa.
+Streeck W., 2009, Re-Forming Capitalism. Institutional Change in the German Political Economy, Oxford University Press, Oxford.
+
+18
+
+Anna Ząbkowicz
+
+Streeck W., 2012, How to Study Contemporary Capitalism?, “European Journal of Sociology”, vol. 53, iss. 1, pp. 1-28, DOI: 10.1017/S000397561200001X.
+Streeck W., 2014, Buying Time: The Delayed Crisis of Democratic Capitalism, translated by
+Patrick Camiller, Verso Books, New York.
+Szulczewski G., 2017, Społeczny charakter ekonomii w ujęciu F.A. Hayeka, [w:] Świat
+pracy: instytucje i wartości, Gardawski J., Towalski R. (red.), Oficyna Wydawnicza
+SGH, Warszawa.
+The New Encyclopaedia Britannica 1991, vol. 2, Micropaedia, (15th edition), Encyclopaedia
+Britannica, Inc., Chicago.
+Wallerstein I., 2004, World-systems Analysis, Duke University Press, Durham and London.
+Weber M., 2002, Gospodarka i społeczeństwo. Zarys socjologii rozumiejącej, Wydawnictwo
+Naukowe PWN, Warszawa.
+Wilkin J., 2016, Instytucjonalne i kulturowe podstawy gospodarowania. Humanistyczna perspektywa ekonomii, Wydawnictwo Naukowe Scholar, Warszawa.
+Wray L.R., 2011, Minsky’s Money Manager Capitalism and the Global Financial Crisis,
+Levy Economics Institute of Bard College, Working Paper no. 661.
+
+
