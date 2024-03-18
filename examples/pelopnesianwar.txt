@@ -1,0 +1,1251 @@
+©Classics of Strategy & Diplomacy1
+
+Structure and Contingency: The Causes of the Peloponnesian War
+by Jared McKinney
+Thucydides called it “a war like no other” (1.23.1, trans. Hanson, 2005). It was a 27 year
+war that brought an end to the fifth century Athenian Golden Age, killed more Greeks in
+one year than the Persians killed in ten (Hanson, 2005, p. 11), and, in the end, seemed to
+solve nothing. “Never before had so many cities been captured and then devastated . . . ;
+never had there been so many exiles; never such loss of life” (1.23, trans. Warner, 1972).
+Such was the severity of war that words lost their meanings. Aggression became courage;
+prudence became cowardice; moderation became unmanly; understanding was mocked;
+“fanatical enthusiasm was the mark of a real man . . . . Anyone who held violent opinions
+could always be trusted, and anyone who objected to them became suspect” (1.82).
+Greeks, in effect reentering what moderns might call a state of nature, became barbarians.
+It was in such an environment shortly after the conclusion of the war that Socrates
+himself—though he fought bravely during the war—was executed (Hanson, 2005, p. 5).*
+What caused this war? The Greeks themselves were unsure: “As for the war in which
+they [Athens and Sparta] are engaged, they are not certain who began it,” Thucydides has
+Spartan delegates declare in a speech to the Athenians (4.20). But with so much
+devastation and pain, not knowing seemed unacceptable. And so it was that Thucydides
+(c. 460- c. 400 BC), who was himself an Athenian veteran of the war, undertook the first
+sustained inquiry in history into the origins and course of a single war (Finley, 1972, p.
+23).
+In explaining the history of the Peloponnesian War (431-404 BC), Thucydides hoped to
+do more than to record the desultory events of an unhappy time. He wrote a history that
+he sought to make accurate in the particulars, but his real goal was universal
+understanding (for the Greeks). “It will be enough for me,” he wrote, “if these words of
+mine are judged useful by those who want to understand clearly the events which
+happened in the past and which (human nature being what it is) will at some time or other
+and in much the same ways, be repeated in the future. My work is not a piece of writing
+designed to meet the taste of an immediate public, but was done to last for ever” (1.22).
+For good reason Thucydides has long been understood as not just a historian but also
+something of a political scientist (Doyle, 1990; Ober, 2005).
+This essay investigates the causes of the Peloponnesian War as found in Thucydides and
+the best of modern scholarship on the question. Throughout the essay, I attempt to follow
+the example of Donald Kagan and the guidance of J.E. Lendon: to treat Thucydides ’
+history and opinion with respect, “but not with idolatry” (Kagan, 1969, 1974, 1981, 1987;
+Lendon, 2010, p. 423). Great historian though he was, Thucydides made mistakes of fact
+
+©Classics of Strategy & Diplomacy2
+and judgment, he had biases and even an agenda, and he was, as an Athenian general, a
+partisan in the struggle his history records (Kagan, 2010). This does not mean his history
+is not extraordinary; it means merely that it is human.
+The essay proceeds as follows. It begins by examining how rivalry developed between
+Sparta and Athens in fifth century Greece, and how dual alliance systems polarized the
+“inter-polis” system. It then looks at the history of the First Peloponnesian War and the
+peace that resulted from it. The remainder focuses extensively on the immediate causes of
+the Second Peloponnesian War and appraises what Thucydides meant when he spoke of
+the “truest cause” of the war.
+Timē, Rivalry, Polarity, and Alliances
+In ancient Greece, polities were ranked according to their timē or honor. The polity on the
+top of this ranking was deferred to as the leader or “hegemon” (from the Greek
+hegemonia). To be the hegemon was to be the legitimate authority—the polity that had
+the right to give others commands in exigent circumstances (Lebow & Kelly, 2001, pp.
+594–603). The ancient glory and history of each polity contributed to its relative status,
+while victory in battle was the preeminent way for a polity to increase timē. Such battles
+took place when, in response to an insult (an act of hybris), the offended polity sought
+vengeance in open battle (Lendon, 2010, pp. 6–13).
+Because Sparta was the most powerful and respected polity of Greece when Xerxes
+invaded in 480 BC (1.18), it organized and led the Greek world against the Persians,
+famously fighting, of course, at Thermopylae. At the Battle of Plataea in 479, at which
+the Persians were decisively defeated, Sparta assigned the left flank of battle—the most
+honorable location after the Spartans ’own right flank—to the Athenians in recognition of
+their substantial contribution to the war (Lendon, 2010, pp. 40–42). Indeed, in
+recognition for his wisdom and courage, the Spartans treated Themistocles, the Athenian
+commander at the Battle of Marathon, “with more distinction than [they] ever treated any
+visitor from abroad” (1.74).
+Upon the defeat of the Persians in 479, Thucydides reports, “Sparta was particularly
+friendly to Athens” (1.92). Athenians, led by Themistocles, took this opportunity to
+rebuild the walls and fortifications of their city (1.89 ff.). At the urging of its allies, “who
+were alarmed both by the sudden growth of Athenian sea-power and by the daring which
+the Athenians had shown in the war against the Persians” (1.90), Sparta dispatched
+embassies suggesting that Athens refrain from rebuilding its walls on the pretext that in
+the future such fortifications could be used by the Persians in a new invasion.
+Themistocles replied to this challenge by giving “the Spartans a gentle poke, a beautifully
+symmetrical jab” in response to a previous episode in which Sparta had finished its walls
+at the Isthmus of Corinth while delaying the Athenian envoys, who were seeking Spartan
+help against the then-invading Persians (Lendon, 2010, p. 44). In order to match Sparta’s
+earlier offense, Themistocles ensured the Spartan inspectors were delayed until the
+
+©Classics of Strategy & Diplomacy3
+Athenian walls were fully constructed. He then explained to the Spartan delegates that
+“the Athenians were capable of making up their own minds both about their own interests
+and about the interests of the rest of Hellas. . . . for it was only on the basis of equal
+strength that equal and fair discussions on the common interest could be held” (1.91). If
+this is what Themistocles actually said (the dialogue occurred years before Thucydides
+was born, and Thucydides reports his own doubts about “past history,” see 1.20-21), then
+this was the first sign that Athens was unwilling to pay deference to a Spartan hegemon:
+Athens instead insisted on equality, for Athenians had “given more than [they] received”
+in the campaigns against the Persians (1.74).
+Sparta, which was never eager to initiate a confrontation and preferred to overlook insults
+from polities it considered its inferior (1.18; Kagan, 1969, p. 26 ff.), ignored
+Themistocles ’challenge. Nonetheless, Thucydides records, “All the same the Spartans
+had not got their own way and secretly they felt aggrieved because of it” (1.92). And so it
+was that a low level of rivalry developed between Sparta, the recognized leader of
+Greece, and Athens, a polity whose power was rapidly increasing.
+This rivalry between Sparta and Athens, though fueled by a contest for honor, should also
+be placed in a more specific context. Sparta and Athens were in many ways opposites:
+Sparta was a continental power, Athens was to become (in the years following the defeat
+of the Persians) a naval power; Sparta despised commerce, Athens was a commercial
+city; Spartans were conservative, Athenians were inventive; Sparta was oligarchic,
+Athens was democratic; Sparta had an empire at home (its helots), Athens was to acquire
+an empire abroad; the Spartan alliance system was loose, and sometimes almost
+multipolar, while the Athenian system was tight and (was to become) strictly imperial.
+Different participants in Thucydides ’history stress each of these themes. But, of course,
+we must be careful not to overdue the contrast: helot slaves sustained the Spartan system
+though agricultural labor, but Athens too had tens of thousands of slaves (7.27). Sparta
+was “oligarchic,” but its system was also constitutionally mixed and power was dispersed
+among two kings (from different bloodlines), five annually elected ephors, and the
+general cohort of Spartan warriors, who voted in the assembly. Spartans (and
+Peloponnesians more broadly) may have been conservative, but as the war progressed,
+they learned to adapt—a development that eventuated in their great naval victories over
+Athens. The differences between Sparta and Athens did not doom them to conflict, but it
+would be difficult to understand Thucydides ’story without grasping this context.
+As time passed after the building of Athens ’walls, the Spartan-Athenian rivalry gradually
+escalated. In one gasp, Thucydides summarizes the next fifty years of history:
+not long afterwards the Hellenes – both those who had fought in the war together
+and those who later revolted from the King of Persia – split into two divisions,
+one group following Athens and the other Sparta. These were clearly the most
+powerful states, one being supreme on land, the other on the sea. For a short time
+the war-time alliance held together, but it was not long before quarrels took place
+and Athens and Sparta, each with her own allies, were at war with each other,
+
+©Classics of Strategy & Diplomacy4
+while among the rest of the Hellenes states that had their own differences now
+joined one or other of the two sides. So from the end of the Persian War till the
+beginning of the Peloponnesian War, though there were some intervals of peace,
+on the whole these two Powers were either fighting with each other or putting
+down revolts among their allies. They were consequently in a high state of
+military preparedness and had gained their military experience in the hard school
+of danger. (1.18)
+By the 430s rivalry had turned into polarity and “the two sides were at the very height of
+their power and preparedness and . . . the rest of the Hellenic world was committed to one
+side or the other” (1.1).
+What precisely transpired between 479 and 433 BC, the so-called Pentecontaetia or Fifty
+Year Period, is critical in understanding the events—and the war—that followed. It was
+here that the structural conditions developed that eventually “compelled” Sparta “to go to
+war” (1.23.6, trans. Sealey, 1975, p. 92). Thucydides identifies the key factors: the
+expansion of the Athenian empire, rivalry between Athens and Sparta, competing alliance
+systems, growing polarity, and the (unfortunately named) First Peloponnesian War (460445) (1.18).
+From Hegemonia to Arche: The Birth of the Athenian Empire
+After the defeat of the Persians in 479, Athens took command of the mopping up
+operations undertaken in the Aegean. Athens was permitted by Sparta to assume this
+position of leadership because of the unpopularity of Sparta’s own commander among the
+other Greek polities (1.94-5). This suited Sparta just fine because it was not eager to lead
+campaigns in far away places, and, furthermore, the Spartans “regarded the Athenians as
+being perfectly capable of exercising the command and as being also at that time friendly
+to themselves” (1.95). Indeed, the Greek historian Diodorus of Sicily (who wrote in the
+first century BC) records that in the 470s the Spartans had an explicit debate on whether
+they would contend with the Athenians for control of the sea. Many Spartans believed
+they should actively resist Athens ’naval expansion. But advocates for sea-rivalry with
+Athens were defeated and the debate ended with the words of a Spartan elder: “It does not
+profit Sparta to dispute for the sea” (Diod. Sic. 11.50 quoted in Lendon, 2010, p. 48).
+In order to prosecute the campaign against the Persians, the Athenians required the allied
+Greek polities to supply money or ships, forming an organization called the Delian
+League in 478 BC to manage the war (named thus as its treasury was originally
+established on the small island of Delos) (1.96-7). With time, this league of independent
+polities was to become the Athenian Empire. The process by which this happened was
+rather prosaic: in order to prevent free riding, Athens required each polity to make a
+contribution to the league’s navy or treasury. If any polity dared resist—Naxos was the
+first in 476-5—it was compelled to come in at the cost of its independence (1.98-99). As
+most polities preferred to contribute to the treasury rather than the navy, Athens ’strength
+grew quickly at the expense of its allies and subjected polities. But even if its popularity
+
+©Classics of Strategy & Diplomacy5
+was waning, Athens, led by Cimon, continued to defeat the Persians in major
+engagements (1.100), which provided an easy justification for its heavy-handedness.
+In its campaign against the Persians, however, Athens ’motive was not purely the
+freedom of the Greeks: Athenians sought an empire so that they might, Thucydides has a
+later Athenian speaker state, “have the strength to hold our own in relation to the
+Peloponnesians” (6.83). Empire was a way to ensure Athenian equality in the scale of
+relative timē, and it worked. As the same Athenian proclaims, “After the Persian war, by
+which time we had built our navy, we broke free from the Spartan empire and from
+Spartan leadership [hegemonia]. They had no more right to give us orders than we had to
+give orders to them, except that at the time they were stronger” (6.82).
+During this period of imperial expansion, Athens was able to maintain good relations
+with Sparta because of the leadership of Cimon, Themistocles ’rival and an unabashed
+Laconophile. Plutarch reports that Cimon would rebuke his countrymen by booming,
+“that’s not how they do it at Sparta!” (quoted in Lendon, 2010, p. 51). Cimon went so far
+as to name one of his sons Lacedaemonius, or Spartan (Kagan, 1969, p. 60). Indeed, in
+around 475, Sparta successfully used its influence in Athens to arrange the ostracism of
+the anti-Spartan Themistocles. For more than the next decade, Cimon would dominate
+Athenian politics. This period of peace and friendship between Sparta and Athens
+allowed Sparta to strengthen its position in the Peloponnese and overcome anti-Spartan
+movements in Tegea and Arcadia; it also allowed Athens to construct its empire free
+from opposition from the Peloponnese. The policy of dual hegemony thus benefited both
+Greek powers (Watson, 2009, pp. 58–59). Kagan concludes: “Confidence in the
+Athenians had been fully justified. They had taken no part in the Peloponnesian uprising,
+had given no aid to the new democracies, and had been quite ready to turn Themistocles
+over to Spartan vengeance. Sparta, it could be argued, might now look forward to a return
+to the peace and quiet of the prewar period, to its virtuous ancestral ways, to a secure
+Peloponnesian hegemony, defended from barbarian attack by a trusted and reliable
+Athens” (Kagan, 1969, pp. 55–56). In sum, relations between Sparta and Athens and their
+related allies appear to have been much more positive in the decade and a half that
+followed the Persian wars than Thucydides ’statement in 1.18 (quoted above) implies.
+Athens and Sparta were openly cooperating: as long as Cimon, or someone similarly
+friendly to Sparta, continued to dominate Athenian politics, the expectation should have
+been for this trend to continue.
+Hybris and Vengeance: the Coming of Conflict
+In 465 an earthquake shook the Peloponnese and was followed by a helot revolt in Sparta
+(1.101). The Spartans asked their allies, including Athens, to come aid them in the war
+against the helots.
+There was a significant internal debate within Athens over whether it should render aid.
+The leader of those opposed to aiding Sparta argued Athenians should not “help or restore
+a city that was a rival to Athens” but instead “let the pride of Sparta lie low and be
+
+©Classics of Strategy & Diplomacy6
+trampled underfoot” (Plutarch quoted in Kagan, 1969, p. 72). Cimon, however, prevailed
+by arguing that Athens should “not leave Hellas lame nor see their city deprived of its
+yokefellow,” an open acknowledgement of the dual hegemony that currently existed in
+Greece (Plutarch quoted in Kagan, 1969, p. 72). Cimon then led an army to the
+Peloponnese, helping the Spartans defeat the rebels in open battle. As their allies
+departed, the Spartans laid siege to the remaining helots who had fortified Mt. Ithome.
+Once they realized their own weakness at siege operations, Sparta called its allies again
+in 462—naming especially the Athenians—to come and help finish off the rebels (1.102;
+Lendon, 2010, p. 52).
+Once the Athenians arrived, however, the Spartans “grew afraid of the enterprise and the
+unorthodoxy of the Athenians; they reflected, too, that they were of a different nationality
+and feared that, if they stayed on in the Peloponnese, they might listen to the people in
+Ithome and become the sponsors of some revolutionary policy” (1.102). Out of fear, then,
+Sparta sent the Athenians home while retaining its other allies. The Athenians, insecure
+in their new identity as a great power, believed this to be a dishonorable act on the part of
+Sparta—a grave insult—and were “deeply offended.” In vengeance, as a punishment for
+such Spartan hybris, Athenians “denounced the original treaty of alliance which had been
+made against the Persians and allied themselves with Sparta’s enemy, Argos” (1.102). In
+another act of spite, when Sparta finally defeated the helots (on negotiated terms), Athens
+“received the exiles and settled them” (1.103). These Athenian acts, to the Greek mind,
+were not ignoble. As a modern historian reminds us, the Greeks considered revenge to be
+“among the noblest possible motivations for war” (Lendon, 2010, p. 53).
+In consequence of the Athenian “humiliation” in the Peloponnese, Cimon, that great
+friend of the Spartans, was ostracized once he returned to Athens in c. 461. Kagan notes
+the sad irony: “the expedition that he [Cimon] had urged to guarantee friendship between
+Athens and Sparta provided the weapon with which his enemies in both states could
+destroy that friendship” (Kagan, 1969, p. 73). With Cimon’s defeat, Athens would no
+longer be comfortable with the dual hegemony of the status quo. That being said, though
+Athens ’feathers had been ruffled, that was all: the two hegemons of Greece were still at
+peace.
+One further fact should be noted here: before the outbreak of the earthquake, Thucydides
+tells a quaint story of a rebellion in c. 465 at Thasos. The Thasians, who had gotten into a
+disagreement with the Athenians over some gold deposits, sought to leave the Delian
+League. Athens responded with an invasion and siege. The Spartans, Thucydides reports,
+then promised to help the Thasians by invading Attica. This never came about because of
+the earthquake and revolt in Messina. This would indicate that in fact the rivalry had
+escalated significantly and that the Spartans already were willing to attack the Athenians
+and desired merely a pretext (1.101.1). If this story were true, it seems strange that the
+Spartans would be so willing—that very year—to request an Athenian army to enter their
+lands and come to their aid. Kagan vouches for the authenticity of the story (1969, p. 61,
+fn. 15), but more recent scholarly treatments are more wary. Lendon, for example, writes,
+
+©Classics of Strategy & Diplomacy7
+“Thucydides no doubt thought the story true, but in fact it has all the signs of a
+manufactured casus belli: at once secret and stillborn, it was quite impossible to prove or
+disprove. Perhaps there had been a message sent between Thasos and Sparta: certainly it
+is easy to imagine the angry Athenian invention of, or elaboration upon, such contacts, in
+the hour of fury after Cimon’s dismissal from Ithome” (55). Regardless of where one
+comes down on this question, Sparta’s reluctance to actually engage in battle with Athens
+if it could otherwise be avoided is demonstrated clearly in the course of the First
+Peloponnesian War. In other words, if in fact the Spartans made such a promise, it is
+possible they had no intention of keeping it.
+The First Peloponnesian War (460-446 BC)
+Corinth, Sparta’s largest ally, ensured the peace of the post-Persian era did not last.
+Obsessed with a piece of land held by Megara, also an ally of Sparta, Corinth initiated a
+war in 461. Sensing a moment of opportunity, Megara in response left the Spartan
+alliance and joined with the Athenians, who, still smarting from Sparta’s previous insult,
+were looking for vengeance. This significantly affected the balance of power in Greece.
+Megara, located in the Isthmus of Corinth, dominated the passes between the
+Peloponnese and Attica. As long as it was allied to Sparta, Athens could not attack by
+land. But if Megara allied itself with Athens, Sparta would be unable to attack Athens.
+Sparta did not constrain Corinth because it could not: though a member of the Spartan
+alliance, Corinth consistently pursued an independent policy. Indeed, its rejection of the
+Peace of Nicias in 421 would come to be a prime cause of the continuation of war
+thereafter. Corinth’s action in 461 was rash, selfish, and typical: as the modern historian
+Arnold Wycombe Gomme put it: “Corinth was ready to risk the stability of the
+Peloponnesian League, not to mention the peace of the Greek world in general, rather
+than give up a claim to some strip of land” (Gomme quoted in Kagan, 1969, p. 25).
+Kagan’s conclusion is apt: “This was a clear example of the Corinthian tail wagging the
+Spartan dog” (26).
+The Athenian alliance with Megara was no minor affair. As Kagan writes, it “could only
+be interpreted as an act of war against the Spartans. Athens ’acceptance of a rebellious
+ally into the Athenian alliance, her fortification of the vital route between the
+Peloponnese and the rest of Greece were acts that Sparta could not tolerate. The
+Athenians knew this quite well but did not shrink from the deeds” (Kagan, 1969, p. 80).
+A refocus on timē makes sense of Athens ’aggressive actions. With Cimon gone, the
+Athenian democracy, now led by a young Pericles, still desired vengeance for Sparta’s
+insult, but also open equality—or perhaps even something more. It was willing to fight to
+achieve this objective.
+In addition to being at war with Megara, which was now defended by Athenian soldiers
+and fortifications, Corinth was likewise at war with Argos, also over another minor
+territorial dispute. In around 458, Athenian soldiers met Corinthians and their allies, the
+Epidaurians, at Haliae, on the eastern side of the Argolic Gulf. This was the first major
+
+©Classics of Strategy & Diplomacy8
+action of First Peloponnesian War (called thus by modern historians; the ancient name for
+the conflict is not known) (Lendon, 2010, pp. 59–61). The Athenians lost this first battle,
+but the war quickly expanded as Aegina, Athens ’longtime rival, joined Corinth and her
+allies in the war with Sparta, Argos, and Megara (1.104-5; Lendon, 2010, p. 62). Athens,
+likewise, may have joined with the Argives in a battle against the Spartans around Oenoe
+in the Argolid (Lendon, 2010, p. 63).
+Up until this point, there is little evidence that Sparta and Athens clashed head-on
+(Cartwright, 1997, pp. 65–66). This changed, however, once an ally of Athens invaded
+Doris, the ancient homeland of the Spartans. The Spartans, who held a moral debt to their
+mother state, marched to its defense with 1,500 hoplites and 10,000 allies (1.107). Once
+the Spartans were successful at Doris, they pondered how they could return home.
+Because Athens held the passes at Megara, the Spartan army chose to wait in Boeotia.
+The Athenians then “marched out against them with their whole army. . . . They made this
+attack,” Thucydides reports, “partly because they thought that the Spartans were in
+difficulties about their way back, and partly because they had some suspicions of the plot
+to overthrow the democracy” (1.108). At the battle, though it was close, Athens was
+defeated, an outcome that allowed the Spartan army to return home (1.108). Two months
+later, unperturbed by its defeat, Athens dispatched a new army, which, in an act of
+vengeance for its earlier loss, defeated Sparta’s allies and took control of central Greece
+(Boeotia and Phocis) (1.108).
+Simultaneous with the conduct of the First Peloponnesian War, Athens was engaged in a
+major campaign in the eastern Mediterranean and in Egypt against the Great King of
+Persia. The Athenian Egyptian expedition ended in total disaster in around 454 with as
+many as forty to fifty thousand casualties (Kagan, 1969, p. 97). Worried about the course
+of the war on this second front, in around 451, Cimon, having just returned from a decade
+of exile, negotiated a five years ’truce with the Peloponnesians and led a new 200-ship
+expedition against the Persians in Cyprus (1.112; Lendon, 2010, p. 72).
+Sparta used the truce with Athens to fight against other adversaries, scoring a major
+victory against its ancient rival Argos, which it bound to peace for thirty years (Lendon,
+2010, pp. 72–3). It also used the truce to restore control of the temple at Delphi, the most
+holy site in ancient Greece, to the Delphians. But “as soon as they had retired, the
+Athenians marched out, took the temple again, and gave it back to the Phocians” (1.112).
+Athens, in short, abided by the terms of the truce—and may even have been a “saturated
+power” whose goal was simply to keep what she had (Kagan, 1969, p. 107)—but,
+nonetheless, she still sought to humble Sparta wherever she could. This was certainly the
+interpretation the first century AD Greek historian Plutarch attributed to this event:
+Pericles, he reported, “considered it a great achievement to hold the Lacedaemonians in
+check, and set himself in opposing to these in every way, as he showed by his action in
+the Sacred War” (Plutarch, Pericles, 18.2-3 quoted in Kagan, 1969, p. 122).
+In 447 and 446 as the five-year truce was ending, a series of revolts weakened the
+Athenian position considerably: in central Greece, the Boetians revolted and defeated the
+
+©Classics of Strategy & Diplomacy9
+Athenians in an ambush; then Euboea, the great island to Athens ’east, tired of Athens
+imperium, revolted; to top it all off, Megara switched its alliance back to Sparta and
+slaughtered the Athenians in its city (1.114-5). These revolts followed similar rebellions
+on the coast of Asia Minor (Erythrae and Miletus) (see Kagan, 1969, pp. 98-99). Once
+the truce ended, Sparta invaded Attica in this moment of Athenian weakness, but, rather
+than ravishing the fields around the city, the Spartan king Pleistoanax made a peace
+settlement with Pericles in which Athens surrendered its holdings in central Greece and
+Sparta agreed not to interfere in the affairs of the Athenian Empire (1.114-5). The reason
+Pericles was willing to negotiate was straightforward: Athens simply could not fight the
+Corinthians, Spartans, Persians, and its own revolting allies at the same time. This
+agreement was ratified in 446/5 as the Thirty Years ’Peace. The treaty itself was an “equal
+treaty” that recognized Athens as Sparta’s equal in its division of allies and its
+prescription for the arbitration of disputes (Lendon, 2010, p. 80).
+The First Peloponnesian War broke out because of Athens ’quest for vengeance in
+response to the perceived insult of being sent away from Messina on the one hand and
+Corinth’s selfish border dispute with Megara on the other. The first created conditions of
+intense rivalry; the second opened a window of opportunity for Athens to decisively shift
+the balance of power, thereby enabling it to punish Sparta, which it stepped through. The
+war could have been a contest merely between Athens and Sparta’s allies, but Athens
+intentionally escalated the war by attacking Sparta’s forces in a moment of perceived
+weakness. Athens then set about conquering for itself a land empire to complement its
+maritime empire. Even after its tremendous defeat in Egypt and during the five-years
+truce with Sparta, Athenians could not resist an opportunity to inflict their vengeance on
+Sparta at Delphi. What was most extraordinary about the war was Sparta’s reluctance to
+fight: cut off in Boeotia, there was no way Sparta could avoid battle at Tanagra; even
+when Pleistoanax finally invaded Attica, it was with so much reserve that he was forced
+to flee into exile when he returned home. Thucydides ’later judgment that Athens
+compelled Sparta to war (1.23.6) matches the facts of the First Peloponnesian War. As
+Spartans witnessed the very stability and security of the Peloponnese dissolve, what else
+were they to do?
+There was also an important religious element in the conflict. As Stefan Dolgert
+observes, “Sparta directly acted against Athens only twice, and on both occasions it was a
+threat to her status in the Delphic amphictiony that prompted her to send out armies into
+the field” (2012, p. 671). From the Spartan perspective, the war may have been just as
+much about religion as it was about rivalry with Athens, an insight exclusively realist
+readings of Thucydides would not otherwise permit (Ahrensdorf, 1997).
+The Thirty Years ’Peace was no defeat for Athens. As Kagan comments, in it, “Athens
+agreed to abandon her continental empire, which she had, in any case, already lost”
+(1969, p. 128). By acknowledging Sparta’s predominance on the Greek mainland, Athens
+satisfied Sparta’s most basic strategic need. This was why Pleistoanax was willing to
+withdraw his forces without exacting gratuitous punishment on the fields of Attica; his
+
+©Classics of Strategy & Diplomacy10
+withdrawal was the ultimate subordination of war to politics. That it left the passions of
+many Spartans so unsatisfied that Pleistoanax himself became the scapegoat of Spartan
+rage reflects the sway of timē in Greek politics (Lendon, 2010, p. 80). That the peace
+nonetheless held reflects, in this particular instance, the ultimate triumph of reason over
+emotion.
+By 446/5, therefore, the Greek world was divided into recognized blocs. Both sides
+agreed that going forward allies would not be permitted to change sides, though neutrals
+could do as they desired. The solution to the contest for supremacy between Athens and
+Sparta was dual hegemony and spheres of influence. The de facto division that preceded
+the First Peloponnesian War and that was responsible for its outbreak had been made de
+jure. Thucydides ’earlier assessment is now worth repeating: the Greek world was “split
+into two divisions, one group following Athens and the other Sparta. These were clearly
+the most powerful states, one being supreme on land, the other on the sea” (1.18).
+Kagan’s evaluation is one of optimism: “Since neither proved strong enough to defeat the
+other in its own element, a peace that recognized dualism conformed to the facts and so
+gave hope of future stability” (1969, p. 130). Nonetheless, uncertainty remained: many
+Spartans still wanted vengeance; many Athenians still desired continental empire; and,
+ominously, “the Corinthians,” Thucydides reports, had begun “to conceive a bitter hatred
+for Athens” (1.103). In short, the system had been stabilized, but rivalry and animus
+remained strong in a context of polarization and contending alliances.
+The Second Peloponnesian War (431-404 BC)
+The Thirty Years ’Peace lasted only fifteen years. In 431, the Second Peloponnesian War
+broke out, beginning a twenty-seven year nightmare: a war started by fathers and left to
+their children (1.81); indeed “the greatest war of all” in Thucydides ’estimation (1.21).
+What caused the system, which had apparently been stabilized in 446/5, to breakdown?
+A Popular Interpretation
+A common answer is structural: in response to growing Athenian power, Sparta initiated
+a war to preserve its political leadership and power superiority. Two facts have
+contributed to making this the dominant interpretation of the war among popular
+commentators.
+First, this appears to be the general explanation Thucydides himself offers for the war. He
+famously wrote, “The real reason for the war is, in my opinion . . . . the growth of
+Athenian power and the fear which this caused in Sparta” (1.23). With such an
+authoritative judgment, holders of this view contend, there really is not much more that
+needs to be said.
+Second, the cause of the war is interpreted as structural because structure is what explains
+hegemonic war. In other words, the cause of the war is deduced as a necessary
+consequence from a more general theory of international relations (IR). This theory is
+
+©Classics of Strategy & Diplomacy11
+realism broadly considered, but as there are various realist explanations for war (Levy &
+Thompson, 2010), this is too broad a formulation. More precisely, some versions of
+neorealism (e.g., Mearsheimer, 2014) and popular versions of power transition theory
+hold that power shifts within the context of hegemonic competition make war inevitable.
+As a recent study on Thucydides contends, “When hegemonic rivalry is paramount, the
+states involved would appear to be on an inevitable collision course. Sparta and Athens,
+like Great Britain and Germany before the First World War, were clearly bent on
+systemic primacy; hence the wars between them did have an aura of inevitability”
+(Platias & Koliopoulos, 2010, pp. 33–34). In short, the Peloponnesian War is just one
+instance within the larger pattern of great-power conflicts.
+According to the conventional “inevitability” explanation, Sparta was a revisionist power
+and Athens a status quo power. Athens desired to hold on to its empire, while Sparta,
+finding Athenian power to be intolerable, launched a “preventive” war in order to totally
+destroy it (Platias & Koliopoulos, 2010, pp. 40–41). According to this view, “the final
+pre-war crises over Potidaea and Corcyra played a comparatively minor role in the
+outbreak of the war. Those crises did influence the timing of that outbreak, but nothing
+more; the crucial role was played by the structure of the international system, which
+made it likely that war would break out” (Platias & Koliopoulos, 2010, p. 23). This
+interpretation of the Peloponnesian War, as noted above, relies on some combination of
+accepting Thucydides ’supposed “inevitability” statement as the war’s definitive
+explanation and imposing a realist IR explanation onto the war’s causes. It also assumes
+that either the Thirty Years ’Peace did not stabilize the system or that the growth of
+Athenian power in the fifteen-year interim had the effect of destabilizing it, necessitating
+war. In order to evaluate this case, we turn to Thucydides.
+“What Led to This Great War Falling Upon the Hellenes” (1.23)
+
+1. Stasis and Cuts of Meat: Epidamnus, Corcyra, and Corinth
+The immediate origins of the Second Peloponnesian War are to be found in the city of
+Epidamnus, located “on the right of the approach to the Ionic Gulf” (1.24) in modern day
+Albania. Epidamnus was a colony of Corcyra (modern day Corfu). In 435 a dispute at
+Epidamnus between factions led to stasis (factional strife/civil trouble): the democrats
+drove out the aristocrats, who then joined the enemies of the city and became pirates.
+Looking to defeat the aristocrats or end the conflict, the democratic faction in Epidamnus
+then requested the help of its mother city, Corcyra. The Corcyraeans, however, refused to
+even receive the Epidamnian ambassadors, possibly because they desired the two factions
+to weaken each other so much that they could dominate the polity (Kagan, 1969, p. 209);
+in desperation, the ambassadors went to Delphi and inquired whether they should “hand
+over their city to the Corinthians,” the founders of Corcyra and therefore a sort of
+honorary founder of Epidamnus, in order to get relief. Receiving an affirmative reply, the
+democrats “sent to Corinth, and made over the colony to the Corinthians,” begging the
+city to come to their aid (1.25).
+
+©Classics of Strategy & Diplomacy12
+The Corinthians were happy to come to the aid of the Epidamnian democrats as “they
+hated the Corcyraeans because they failed to show to Corinth the respect due from a
+colony to the mother city” (1.25). Corinth and Corcyra, Thucydides goes on to explain,
+were engaged in a no-holds-barred competition for timē: Corcyra, in particular, insisted
+that its great fleet and riches made it equal, or perhaps even superior to, its founder and so
+it refused to honor Corinth at religious festivals—specifically, refusing to give
+Corinthians prized cuts of meat at Panhellenic gatherings (Crane, 1992, p. 5). Indeed,
+rivalry between the two cities was the stuff of legend: the two, Thucydides earlier
+reported, had fought the “first naval battle on record” 260 years earlier (1.13)! And so it
+was that Corinth honored the request of the Epidamnian democrats and sent volunteers to
+the city to garrison it.
+When the Corcyraeans found out that Corinth had gotten ahead of them in their battle for
+timē, “they reacted violently” and dispatched a fleet to Epidamnus, which “demanded in
+the most threatening and abusive language” the Epidamnians reinstate the exiled
+aristocrats and eject the Corinthian garrison (1.26). Kagan puts this diktat in context:
+“This was not a proposal for discussions or negotiation; it was an ultimatum, delivered in
+insolent language, whose terms were totally unacceptable. Corinth could not accept them
+without disgrace, and the Epidamnian democrats could not accept them without the
+greatest danger to themselves” (1969, p. 222).
+When the Epidamnians rejected the Corcyraean command, the Corcyraeans laid siege to
+the city. Once word of the siege reached them, the Corinthians prepared a large allied
+fleet to go to the city’s relief (1.27). Upon learning of Corinth’s substantial response, the
+Corcyraeans, realizing they had bitten off more than they could chew, sent an embassy to
+Corinth who proposed solving the dispute through arbitration and threatened an alliance
+with Athens if the Corinthians did not comply (1.28). Thucydides notes that Spartan
+ambassadors accompanied the Corcyraean envoys. Kagan explains that this indicated
+Sparta desired the dispute to be peacefully resolved and opposed Corinthian intransigence
+(Kagan, 1969, p. 225). Nevertheless, the Corinthians, who were unwilling to treat their
+own colony as their equal, refused this offer, reasonable though it was, and dispatched
+their fleet, a force of seventy-five ships and 2,000 hoplites (1.29). The Corcyraeans met
+the Corinthians with eighty of their own ships and defeated them decisively; at the same
+time, Epidamnus surrendered to its besiegers. From then until the end of 434, the two
+sides existed in a state of open warfare, but with no major engagements (1.30).
+Corinth, meanwhile, was preparing another major expedition to Corcyra. In response, the
+Corcyraeans made good on their promise to abandon their neutrality and seek an alliance
+with the Athenians to “see whether they could get any support from that quarter” (1.31).
+An assembly was then held at Athens in 433 and the representatives of both Corcyra and
+Corinth argued before it.
+The Corcyraean representatives argued that they were in the right legally, that war was
+coming—indeed, had “almost broken out already” (1.36)—and that Athens had better ally
+itself with Corcyra before war began in order to maximize its capabilities. Indeed, the
+
+©Classics of Strategy & Diplomacy13
+dispute—never mind that it was caused by a chance stasis in a small city far away—was
+part of a monstrous Spartan and Corinthian conspiracy: the Peloponnesians had attacked
+the Corcyraeans first “in order to attack you afterwards” (1.33). The idea here was that
+Corcyra would be forced to ally itself with Corinth, which would enable the
+Peloponnesians to mount a challenge to Athens ’total sea dominance. The Corcyraeans
+point out that the alternative to this dread scenario would be Athenian control of the
+Corcyraean navy, which would eliminate even the hint of a Peloponnesian naval
+challenge (1.35; 1.36).
+At first the Corcyraeans insist that the Athenians would risk nothing in such an alliance
+(1.33). Since war was coming anyway, antagonizing Corinth or Sparta would not be a
+mistake. This argument was apparently not found to be entirely convincing to the
+Athenians, for later in their speech the Corcyraeans respond to those Athenians who were
+“apprehensive about a breach of your treaty with Sparta” (1.36), stating: “whether you
+feel apprehensive or not, you will certainly have become stronger, and that this fact will
+make your enemies think twice before attacking you; whereas if you reject us, however
+confident you may feel, you will in fact be the weaker for it, and consequently less likely
+to be treated with respect by a strong enemy” (1.36). The argument here is that a boost in
+Athenian capabilities will allow the Athenians to better deter war—or, as the Romans put
+it: Si vis pacem para bellum. Immediately after this statement, the speakers revert back to
+their war-is-coming mantra. The Corcyraean argument, in its logic, mirrored that of Philo
+of Alexandria who four centuries after this debate would argue that God had no name and
+that it was blasphemy to speak his name. In the case of the Corcyraeans, the argument
+was that war was inevitable and that an Athenian alliance could help deter war. One or
+the other, but both?
+Thucydides has the Corinthian speakers respond with arguments based on honor,
+friendship, and security. The honor argument is that Corinthians “did not found colonies
+in order to be insulted by them, but rather to retain our leadership and to be treated with
+proper respect.” Even if they happened to be in the wrong, still “the right thing would be
+for them to give in to us” (1.38). As far as the Corinthians were concerned, this dispute
+was about timē, not fear as the Corcyraeans alleged (1.33). In the friendship part of the
+argument, the Corinthians insisted that they had “some title to [Athenian] gratitude” for
+they had aided Athens in its fight with Aegina before the Persian wars and, more
+recently, prevented the Spartans from aiding Samos in its rebellion from the Athenian
+alliance (1.41). Finally, the Corinthians argued that an Athenian alliance to a polity with
+which Corinth was actively engaged would both violate the spirit of the Thirty Years ’
+Peace and would cause a war that was not otherwise inevitable (1.40). Responding
+directly to the Corcyraean assertion that “when one makes concessions to one’s enemies,
+one regrets it afterwards, and the fewer concessions one makes the safer one is likely to
+be” (1.34), the Corinthians argued that for the Athenians “a much wiser course would be
+to remove the suspicions which we already feel towards you in connection with Megara.
+And you will find that an act of kindness done at the right moment has a power to dispel
+old grievances quite out of proportion to the act itself” (1.42). Were Athens to follow
+Corcyra’s advice, and seek to snatch “some apparent but dangerous advantage,” it would
+
+©Classics of Strategy & Diplomacy14
+find itself less secure and at war. Power and security, the Corinthians argued against the
+Corcyraeans and today’s offensive realists, were sometimes mutually exclusive.
+The speeches being completed, the Athenian assembly made its decision: there would be
+no alliance. Thucydides then simply reports that a second assembly was held at which the
+Athenians changed their minds. Scholars agree that Thucydides intentionally sped
+through this development in order not to name the man responsible for the second
+assembly, his hero, Pericles. Kagan writes: “The common view held Pericles responsible
+for bringing on the war. This was precisely the view Thucydides wanted to refute, and his
+technique was to treat the Athenian decision impersonally, as a consequence of all the
+Athenians ’deliberations and an inevitable response to the situation” (Kagan, 1969, pp.
+237-238). But this critical decision was no inevitable response. To the contrary, it took all
+of Pericles ’influence to convene a second assembly and to sway the voters to make the
+alliance. Thucydides ’explanation for why the Athenians so voted should be quoted in
+full:
+The general belief was that, whatever happened, war with the Peloponnese was
+bound to come. Athens had no wish to see the strong navy of Corcyra pass into
+the hands of Corinth. At the same time she was not averse from letting two
+Powers weaken each other by fighting together; since in this way, if war did come
+Athens herself would be stronger in relation to Corinth and to the other naval
+Powers. Then, too, it was a fact that Corcyra lay very conveniently on the coastal
+route to Italy and Sicily. (1.44)
+Reasoning thus, Athens dispatched ten ships to Corcyra, specifying that they were to be
+used in a defensive manner. Significantly, Lacedaimonius, the son of Cimon, that great
+friend of Sparta, was given the command (1.45).
+Though surely disappointed by Athens ’alliance with Corcyra, Corinth would not be
+deterred from its quest for vengeance on its upstart colony and so launched its second
+fleet against the Corcyraeans. At Sybota (433), where the Corinthian fleet met with the
+Corcyraean fleet, reinforced as it was with the ten Athenian ships, Corinth achieved a sort
+of victory, destroying seventy Corcyraean ships (1.54). Indeed, only the intervention of
+Lacedaimonius ’forces and the last minute arrival of thirty additional Athenian vessels
+prevented a total rout. Once the Athenian reinforcements arrived, the Corinthians
+retreated and so in the end both sides claimed a victory. Thucydides concludes the section
+ominously: “So Corcyra remained undefeated in her war with Corinth and the Athenian
+fleet left the island. But this gave Corinth her first cause for war against Athens, the
+reason being that Athens had fought against her with Corcyra although the peace treaty
+was still in force” (1.55). A power equilibrium (i.e., the Athenian intervention), in sum,
+prevented the resolution of the dispute. There is irony here: in c. 459, Athens ’decision to
+ally itself with Megara, which was then at war with Corinth, had led to the First
+Peloponnesian War. Now, in 433, Athens had again allied herself with a polity actively at
+war with Corinth. The outcome this time would be no better (Tannenbaum, 1975, p. 539).
+
+©Classics of Strategy & Diplomacy15
+Kagan stresses that Athens ’defensive alliance with Corcyra was meant to straddle the
+horns of a dilemma: Athens needed to deter a Corinthian attack so as to maintain the
+naval balance of power while avoiding an open war with Corinth, which would violate
+the terms of the Thirty Years ’Peace (1969, pp. 235-41). There is certainly something to
+this, but in fact Thucydides reports (as quoted above) that the Athenians ’motives were
+even more complex than this (Stadter, 1983).
+According to Thucydides, Athens was willing to ally itself with Corcyra in order to
+improve the balance of power: war with the Peloponnesians was coming so the more
+allies the better. The fear that Corcyra’s navy would be captured by Corinth, which could
+then use it to dispute Athenian maritime supremacy, complemented this position. The
+alliance was also intended to actuate a clever strategy of baiting, bleeding, and
+bloodletting: it allowed Corcyra to defy Corinth and to meet it in battle (for a discussion
+of the three bs, see Mearsheimer, 2014, p. 153 ff.). Finally, the alliance opened a door to
+Athens for future western expansion and control of strategic sea-lanes, a door heretofore
+blocked by Corcyra’s independent status.
+As Stadter (1983) convincingly argues, Athens ’objective at Sybota was not deterrence:
+Athens desired Corcyra and Corinth to fight as long as the total defeat of the former was
+avoided (1.50-51). He writes, “The logic of this decision explains the small number of
+ships sent with Lakedaimonios to Corcyra. It was not to Athens ’advantage for Corinth to
+be so frightened by a large Athenian force (say, of fifty ships) as not to dare to engage”
+(134-5). The strategy, moreover, worked: Sybota sufficiently weakened Corcyra that it
+could no longer pursue an independent course; it also made Corinth more reliant on
+Sparta. Athens ’strategy was not that of a disinterested power merely attempting to
+maintain the status quo. Pericles saw an opportunity in the dispute to achieve total naval
+supremacy—to facilitate the conditions by which the only other substantial navies of the
+era would be eliminated. The double strategy (commit, but not much) guaranteed
+Athenian sea dominance for as far as anyone could then see. But it committed a larger
+transgression: had Athens dispatched a serious fleet and deterred the Corinthian attack,
+perhaps Corinth would have then been willing to accept arbitration or perhaps the dispute
+would otherwise have been resolved; had it chosen not to ally itself with Corcyra,
+perhaps Corcyra would have backed down over Epidamnus (on how balances of power
+prevent the resolution of disputes, see Chan, 2013); even had Corcyra not backed down,
+most of the Corcyraean ships would still have been destroyed in the coming battle, and
+therefore the Corinthian attack would not in fact threaten any vital Athenian interest
+(Bloedow, 1991, pp. 195-200, 202). In the actual event, Pericles ’strategy succeeded in its
+objective of primacy; that it did so by marching the Greek world down the path to war
+must be seen as tragic.
+The suggestion that Athens had a vital interest in maintaining total naval dominance
+(Kagan, 1969, p. 241) deserves closer attention. Kagan accepts Corcyra’s argument: were
+Corinth to defeat it in battle and force it to join the Peloponnesian alliance, then Athens
+would be threatened in the war to come. Yet two particulars vie against this conclusion.
+First, after the anticipated Corinthian-Corcyraean battle, there would likely have been
+
+©Classics of Strategy & Diplomacy16
+little Corcyraean fleet left. In point of fact, this is what happened. At Sybota, Thucydides
+reports that 70 Corcyraean ships were sunk; this would have been a loss of around 14,000
+men (Bloedow, 1991, p. 209). Had Athens not joined the battle at Sybota, it would be
+reasonable to project losses even more severe than this—indeed, the practical destruction
+of the Corcyraean fleet. A Corinthian acquisition of the few remaining warships would
+have posed absolutely no threat. Second, Thucydides unambiguously judged both the
+Corinthians and the Corcyraeans to be backwards in their naval technology and tactics.
+Indeed, at the Battle of Sybota, Thucydides reports, aghast, that the battle was one in
+which “courage and sheer strength played a greater part than scientific methods” (1.49.13). Even had Corinth acquired significant numbers of Corcyraean ships this would not
+have enabled her to challenge Athens on the sea. Pericles himself recognized this in a
+future speech: the skills of a seaman were hard to come by and they took constant
+practice; as such, the Peloponnesians would find the scientific art of seamanship “a
+difficult lesson to learn” (1.142.6-9).
+Put in this context, Corinth’s dispute with Corcyra could hardly have constituted a “vital”
+Athenian interest. Is the possibility of a slight to moderate unfavorable shift in the
+balance of power a sufficient justification for acts that are openly expected to make the
+outbreak of a major war more likely (Bloedow, 1991, p. 200)? To answer this question in
+the affirmative is to condemn a too keen focus on the balance of power as foolish; to
+answer it in the negative is to conclude that Athenian interference at Sybota was either
+based on ignorance or, more likely, driven predominantly not by fear of loss but by
+opportunity for gain.
+2. Cucumbers, Hares, and Suckling Pigs: Athens and Megara
+If the Battle of Sybota had been the only journey down the road to war, it seems probable
+that the Greek world need not have been destined to endure twenty-seven years of
+slaughter. But alas, it was not. Already in the dialogue at Athens between the Corinthians
+and Corcyraeans, the Corinthian ambassadors had argued that by making a concession to
+Corinth on the issue of Corcyra, the Athenians could lessen Corinthian angst “which we
+already feel towards you in connection with Megara” (1.42). What was this issue that
+caused the Corinthians so much anxiety and apparently supported the Corcyraeans ’
+argument that war was already coming anyway?
+Most likely, the issue of contention was the Megarian Decree. Thucydides himself avoids
+speaking of the Decree wherever possible. In his narrative, he skips from Corcyra (1.31
+ff.) to Potidaea (1.56 ff.; discussed below) and then to the Spartan decision for war (1.66
+ff.). Megara, we will recall, played an essential role in the First Peloponnesian War:
+during a time of tense relations, Corinth got into a border dispute with Megara, the polity
+that dominated the Isthmus of Corinth; the latter then used the environment of rivalry to
+its advantage and defected to Athens, which was spoiling for a war anyway. Towards the
+end of the war, Megara defected back to Sparta, slaughtering the Athenian garrison. The
+resulting peace attempted to ensure such a war could not happen again by forbidding
+allies to change alliances. But there is no reason to suppose the Athenians had forgiven
+the nasty Megarians for their backstabbing betrayal.
+
+©Classics of Strategy & Diplomacy17
+
+At some point in the 430s (the precise date has been debated), Athens imposed a
+punishment on Megara, accusing the Megarians of “cultivating consecrated ground, of
+cultivating land that did not belong to them, and of giving shelter to slaves who had
+escaped from Athens” (1.139.1-2). Of the nature of the punishment, Thucydides merely
+records that the Megarians “were excluded from all the ports in the Athenian empire and
+from the market of Athens itself” (1.67.4). As a result, Aristophanes reports, “if anyone
+ever saw a cucumber, a hare, a suckling pig, a clove of garlic, or a lump of salt, all were
+denounced as Megarian and confiscated” (Acharnians, 532-539 quoted in Kagan, 1969,
+p. 255). Because Megara was protected by the terms of the Thirty Years ’Peace, Athens
+could not punish its offense through force. Accordingly, it designed an ingenious
+economic embargo, likely designed simply to insult the Megarians—a clever way to
+achieve vengeance without battle (Lendon, 2010, p. 91). This is probably what the
+Corinthian speakers meant when they referenced the ill feelings over Megara, though
+some scholars (including Kagan, 1969, p. 256) insist this reference was not to the
+Megarian Decree but to the Corinthian “bitter hatred” Athens provoked in the First
+Peloponnesian War. Either way, whenever the Decree was issued, it provoked
+widespread enmity.
+Whether the Megarian Decree was really about a religious dispute is open to question.
+Kagan suggests the purpose of the Decree was to punish Megara for aiding Corinth by
+contributing twelve ships at Sybota (1.46) and to deter future such actions by Corinth’s
+allies (1969, p. 266). A potential objection to such a purely realpolitik explanation is the
+question why similar decrees were not imposed on Corinth’s other allies (Elis, Leucas,
+Ambracia, and Anactorium) for they too contributed to the Sybota campaign (Dolgert,
+2012, pp. 677–678). Whatever the precise reason for the Decree, it was a significant step
+down the road to war: it provoked fear in Sparta, antagonized its allies, and provided grist
+for the wheels of the Peloponnesian war parties who interpreted it as a signal of Athenian
+revisionism vis-à-vis the Thirty Years ’Treaty (Kagan, 1969, p. 269 ff.). Beyond the
+satisfaction of taking vengeance, such a Decree could accomplish nothing useful. The
+common opinion of fifth century Greece was that Pericles was responsible for the
+Peloponnesian War because he imposed the Decree and then refused to withdraw it.
+Kagan is right: nothing in Thucydides vindicates Pericles of that charge (1969, pp. 269–
+271).
+3. The Straw that Broke the Camel’s Back: Potidaea
+Corinthian and Athenian animus culminated at Potidaea, on the first of the three prongs
+of the Thracian Chalcidice in the North Aegean, in 433. Potidaea was a Corinthian colony
+and part of the Athenian empire (1.56), an arrangement that heretofore had likely not
+caused any problems (Kagan, 1969, p. 274). However, after the Corcyraean and
+Megarian disputes, “Corinth was searching for means of retaliation against Athens.”
+Athens, therefore, took preemptive action, ordering Potidaea to destroy its fortifications,
+send hostages to Athens, banish its Corinthian magistrates, and refuse their annual
+replacements. “These demands were made because Athens feared that, under the
+
+©Classics of Strategy & Diplomacy18
+influence of Perdiccas and of the Corinthians, Potidaea might be induced to revolt and
+might draw into the revolt the other allied cities in the Thracian area” (1.56-7).
+In response to these demands, the Potidaeans sent ambassadors to Sparta and convinced
+the Spartan authorities “to invade Attica if the Athenians attacked Potidaea.” Emboldened
+by this Spartan pledge, the Potidaeans chose to revolt rather than submit to the Athenian
+demands (1.58). Fearing the revolt would be put down, the Corinthians then gathered
+2,000 troops, which they dispatched to Potidaea as “volunteers”—a sign they still sought
+to officially maintain peace (1.60). Athens meanwhile dispatched an army, which laid
+siege to the city by land and by sea, with the result that there was “no hope that it could
+survive unless some miracle happened or else the events in the Peloponnese took a
+different turn” (1.65).
+These events are significant because of the context in which they took place. The
+Potidaean ultimatum was supposed to signal Athens ’strength, complement the Megarian
+Decree in its defiance of Corinth, and warn other potential troublemakers of the costs of
+insolence. It may have done these things, like the Megarian Decree, but it also further
+convinced the Peloponnesians of Athenian rapaciousness and revisionism, in effect
+expanding the scope of conflict from Athens vs. Corinth to Athens vs. nearly every major
+Peloponnesian polity (Kagan, 1969, p. 279-280). Insofar as this was not Pericles ’
+intention, it would not be mistaken to see Pericles sleepwalking into conflict: an
+ultimatum issued in fear, leading to a wider regional confrontation and to an expensive
+and undesirable siege, and, ultimately, to systemic war.
+The Spartan Decision for War
+The First Assembly
+The siege of Potidaea had the unhappy outcome of forcing a Spartan decision on the
+question of war. Corinth used the time crunch to her advantage, summoning her allies to
+come to Sparta and make the case for war with Athens. Sparta acquiesced, holding an
+assembly at which the accusations of the allies could be heard. Here Athens was
+publically indicted by not just all the major powers of the Peloponnese, but Megara and
+Aegina besides (Lendon, 2010, p. 100). After allowing the various allies “to do their part
+in hardening Spartan opinion against Athens” the Corinthians gave the primetime speech
+(1.67). In it, they made two broad arguments: Athens was an aggressive state bent on war
+while Sparta was a negligent state, too lethargic and self-focused to meet the Athenian
+challenge (1.68-1.71). Specifically, ever since Athens built her Long Walls after the
+Persian War, she had been threatening the freedom of the Greeks. Even now she was
+besieging innocent Greeks and Sparta was withholding freedom “not only from those who
+have been enslaved by Athens but even from your own allies” (1.69). If the Spartans
+refused to act, the Corinthians noted at the end of their speech, they would sacrifice the
+“leadership of the Peloponnese,” which had been handed down from their fathers, and
+give up their greatness. In such a scenario, the Corinthians and the rest of Sparta’s allies
+would despair and be forced “to join a different alliance” (1.71).
+
+©Classics of Strategy & Diplomacy19
+Athenian representatives on other business in Athens listened to these accusations of
+Sparta’s allies, but refused to respond to specific complaints, insisting that the Spartan
+assembly was “not a court of law, competent to listen to pleas either from them or from
+us” (1.73). In other words, even in its hour of danger, Athens insisted upon claiming its
+perfect equality with Sparta. Instead, the representatives argued that the greatness of the
+Athenian empire would make any war against it foolish, and that, while the empire may
+be unpopular, it was not particularly unjust (1.73-1.78). The Athenians insisted,
+moreover, that the structure of the inter-polis system compelled them to act in particular
+ways, not intentional malevolence.
+Specifically, Athens first expanded to protect itself from Persia, and then to increase its
+honor and riches. Rivalry with Sparta, however, followed, replacing the Persian threat. In
+such an environment, “it was clearly no longer safe for us to risk letting our empire go,
+especially as any allies that left us would go over to you. And when tremendous dangers
+are involved no one can be blamed for looking to his own interest” (1.75). This is as good
+a statement of the security dilemma as any in the ancient world (for the best modern
+discussion of the concept, see Booth & Wheeler, 2008). Athens had to act forcefully
+because it feared it would grow weak if it did otherwise; were it to become weak, its
+empire, and even Attica itself, would be vulnerable to its rival Sparta. But in acting
+forcefully to maintain its empire—the present case in point was of course Potidaea—
+Athens had intensified its rivalry with the Peloponnesian states, which believed she was
+acting aggressively and unjustly. In the end, the Athenian representatives requested that
+the matters of dispute be solved through arbitration, as specified in the Thirty Years ’
+Treaty (1.78).
+The Speeches of Archidamus and Sthenelaidas
+Having heard their allies, the Spartans sent them away so they could debate the matter
+privately (1.79). Against the consensus that “Athens was already acting aggressively and
+that war should be declared without delay,” the Spartan King Archidamus, whom
+Thucydides describes as “a man who had a reputation for both intelligence and
+moderation” made the case against war (1.80-1.85).
+Archidamus ’speech is the most perspicacious, the most wise, the most temperate, the
+most strategic, and the most timeless of any in Thucydides. Here was a man—a very
+King of the Spartans—who foresaw that a rash decision for war would leave the conflict
+“to our children after us” (1.81). Here was a man who had “taken part in many wars” and
+so, unlike the young and the rash, lacked the “general enthusiasm for war,” understanding
+that war was neither good nor safe (1.80). Here was a man who understood that Athens
+was a naval power and that Sparta was a land power, and so demanded to know, “What
+sort of war, then, are we going to fight?” (1.81). Here was a man who knew that, unlike
+in 446, the Athenians would not be easily cowed for they had “too much pride to become
+the slaves of their own land, or to shrink back from warfare as though they were
+inexperienced in it” (1.81). Here was a man that understood that Athens was in fact
+injuring Sparta’s allies (1.82) but insisted that Sparta should seek to solve the disputes
+
+©Classics of Strategy & Diplomacy20
+through arbitration even as it sought financial support “both among Hellenes and among
+foreigners” (i.e., the Persians) in order to construct a navy that could challenge the
+Athenians (1.82). It was the nature of deterrence, he understood, that Spartan bluster now
+could not force the Athenians to back down, and a Spartan invasion now would only,
+having driven them to a “state of desperation,” harden their resolve (1.83). Here was a
+man who understood that the complaints of allies could be resolved one way or another—
+and that, indeed, it was the allies and not Sparta that had been injured—but that peace
+settlements once war has begun were “not an easy thing at all” (1.82). And here was a
+man, finally, who understood then what it would take other Spartans years of war to
+acknowledge: that since the Athenians had requested arbitration, it would be illegal for
+Sparta to nonetheless launch an attack (1.85; 7.18.2).
+But just as a prophet is without honor in his own city, so Sthenelaidas, one of the Spartan
+ephors of 432, casually ignored Archidamus ’arguments, mocking calls for careful
+consideration (1.86). The case for action was simple: Athens was acting aggressively to
+the allies of Sparta—a fact the Athenians themselves did not care to dispute—these allies
+were “good allies,” and no Spartan could sit down and “discuss matters” with aggressors.
+“Therefore, Spartans,” he climaxed, “cast your votes for the honour of Sparta and for
+war” (1.86).
+And so the assembly, driven by the irrational rhetoric of Sthenelaidas, which young
+Spartans found persuasive (Bloedow, 1981), and forced into moral conviction by his
+appeals to Spartan honor (Allison, 1984, p. 15), voted that “the treaty has been broken
+and that the Athenians are aggressors.” Though this was a vote in favor of war, it was not
+a declaration of war, a step that would be considered at a second assembly in which the
+allies themselves would be asked to vote, “so that, if they decided to make war, it should
+be done on the basis of a unanimous resolution” (1.87). Thucydides then ends his report
+on this first Spartan assembly by writing that “The Spartans voted . . . that war should be
+declared not so much because they were influenced by the speeches of their allies as
+because they were afraid of the further growth of Athenian power, seeing, as they did,
+that already the greater part of Hellas was under the control of Athens” (1.88).
+Whether Thucydides ’opinion on why the Spartans voted for war is here accurate can be
+questioned (Rhodes, 1987). If the Spartans were convinced by Sthenelaidas ’speech, then
+honor and anger, not fear, would be the predominate motives. Regardless, it is important
+to understand this assessment in its context. It is not abstract power that the Spartans were
+worried about—indeed, the Corinthians criticize Sparta on just this point—but the way in
+which the Athenians used this power, specifically when they “began to encroach upon
+Sparta’s allies” (1.118). This latter assessment is linked with the first statement, as the
+first immediately precedes the Pentecontaetia (1.89-1.117), Thucydides ’digression into
+the growth of the Athenian Empire, while the second immediately follows it (Kagan,
+1969, p. 305-306).
+Corinth’s Desire for Vengeance and Pericles ’Hostility to Concessions
+
+©Classics of Strategy & Diplomacy21
+Kagan is undoubtedly correct in his assessment that “it is impossible to avoid the
+conclusion that if it had not been for Corinth the Spartans would probably have taken no
+action whatever” (1969, p. 307). Indeed, the fact of the matter is that no vital Corinthian
+interest was threatened by Athens ’alliance with Corcyra, by its Decree against Megara,
+or by its siege of Potidaea. Corinth could have just given in, or at least settled for
+arbitration, and it would have been none the worse; indeed, it likely would have received
+more than it deserved. But in making such a concession, Corinth would be admitting that
+it was not a great power equal to Athens or Sparta and that her preferences did not have
+to be respected. The Corinthians, hungry for vengeance and timē, were unwilling to make
+any such concession, and so they pushed the Spartans forward.
+To this relentless Corinthian campaign, the Athenians responded with a speech that was
+intended “to divert their audience from the idea of war” (1.72). The tack the Athenian
+representatives took was one of deterrence: they would emphasize the greatness of the
+Athenian Empire while refusing to make concessions, or even address particular issues,
+in order to deter the Peloponnesians from further advancing down the road to war. In a
+very important passage, Kagan acknowledges that such an approach “is a dangerous
+policy and may in some cases bring on the very war it tries to avoid” (1969, p. 299). In
+the present case, as Kagan admits, it did; what was needed at the Spartan assembly (and
+thereafter) was not deterrence but appeasement—concessions meant to reassure the
+Peloponnesians of Athens ’peaceful intentions (for a theoretical discussion see Kupchan,
+2012). Indeed, this is just what the Corinthians asked for in their debate in Athens during
+the Corcyraean crisis (1.42). “We must admit,” Kagan writes, “that the Corinthians could
+not have succeeded without the help of Pericles (1969, p. 309). His lawful but
+nonetheless aggressive policies vis-à-vis Corcyra, Megara, and Potidaea convinced
+Spartans of Athenians ’arrogance, aggressiveness, and expansionist desires. He
+concludes:
+A firm, unyielding line backed by a show of strength is a fine tactic of diplomacy
+against an adversary who is convinced of its employer’s basically unaggressive
+intentions. Such was Sparta’s attitude when it was controlled by Archidamus and
+the peace party. It is far less useful, indeed it is very dangerous, when used
+towards a state that has come to fear that its user is too powerful, aggressive, and
+ambitious. These were the fears of the war party and it seems likely that the hard
+line of Pericles helped convince uncommitted Spartans and some who had
+favored peace to support the war. (1969, p. 310)
+Here was tragedy: Pericles and his representatives, although simply eager to maintain the
+status quo of the Thirty Years ’Peace, in effect argued and acted in collusion with the
+Corinthian warmongers. A collision with Sparta would be the outcome.
+The Second Assembly
+The second assembly, in which the allies collectively voted for war (1.125) has no
+surprises. Before the second assembly, the Corinthians, as was their wont, dispatched
+embassies to each ally, lobbying them to vote for war (1.119). At the actual assembly,
+
+©Classics of Strategy & Diplomacy22
+Thucydides reports a speech in which the Corinthians argue that war is just, as the god at
+Delphi had endorsed it (1.118-119), and propagate what later would become a key point
+of war propaganda: “let us liberate the Hellenes who are now enslaved” (1.124).
+Nonetheless, the allies did not initiate any offensive action, as they judged themselves
+unprepared.
+Athens and The Last Chance for Peace
+After the Peloponnesian League decided it would fight, Sparta dispatched three
+embassies to Athens “so that there should be a good pretext for making war if the
+Athenians paid no attention to them” (1.126).
+The first embassy demanded a curse connected with Pericles—who, Thucydides reports,
+was “invariably opposed to Sparta, allowing no concessions and urging Athens on to war”
+(1.127)—be removed, the hope being that it would result in his exile, concessions on the
+part of the Athenians, and peace. The Athenians replied with a counter demand along the
+same religious grounds. The second embassy “made most clear” that “war could be
+avoided if Athens would revoke the Megarian Decree” (1.139); Athens quickly rejected
+this demand. The third embassy declared, “Sparta wants peace. Peace is still possible if
+you will give the Hellenes their freedom” (1.139). The Athenians then held an assembly
+to debate the question. Thucydides records then the speech of Pericles, the last oration
+before the war’s beginning.
+Was a conciliatory response to the Spartan embassy’s demand that Athens cancel the
+Megarian Decree a final opportunity to step off the road to war? Pericles argued it was
+not. “My views are the same as ever,” he declared to the assembly. “I am against making
+any concessions to the Peloponnesians” (1.140). Pericles ’reasons for this position were
+as follows:
+•
+•
+
+•
+•
+
+•
+•
+
+Sparta was now, and had been before, plotting against Athens.
+Sparta had sought to solve the dispute by “trying to give us orders” (1.140); but
+Athens “would do nothing under duress,” (1.145) for it would injure Athens’
+status to give in to an equal (1.141).
+Sparta had not accepted arbitration, as agreed on in the Thirty Years’ Peace.
+If Athens were to withdraw the Megarian Decree, “you will immediately be
+confronted with some greater demand, since they will think that you only gave
+way on this point through fear. But if you take a firm stand you will make it clear
+to them they have to treat you properly as equals” (1.140).
+Athens was better positioned to be victorious (1.141) and would be victorious as
+long as she made no terrible mistakes (1.144).
+Finally, resistance to Sparta’s demands would make the Spartans “less eager to
+attack” (1.144).
+
+Convinced by these arguments, the Athenians voted Pericles ’strategy to become the
+official policy of the polity (1.145). The war began the following year, started not by
+
+©Classics of Strategy & Diplomacy23
+Sparta—which evinced little desire to initiate hostilities—but mischievous Thebes, a
+Peloponnesian ally (see book 2 of Thucydides). Indeed, even as Sparta was marching to
+ravish Attica, Archidamus dispatched a final envoy to see if the Athenians would make
+any concession at all that would allow him to call off the war. But because of “a
+resolution of Pericles,” the Athenians “refused him admission to the city or access to their
+assembly” (2.12).
+What are we to make of Pericles ’arguments and response to the Spartan ambassadors?
+Kagan, as is so often the case with Thucydides, has provided the best explanation.
+Pericles believed war to be inevitable. He believed also that only his defensive strategy
+could bring Athens victory (1.144). Without his leadership, demagogues would repeat the
+errors of the First Peloponnesian War: contesting central Greece against Sparta;
+launching unnecessary campaigns of conquest; and seeking to protect the fields of Attica
+(Kagan, 1969, pp. 335-336). Pericles could restrain the mob from being led astray; no one
+else could. Pericles, however, was in his seventies. If Athens was to be victorious in its
+struggle with Sparta, war needed to come soon, while he still lived. And so, Pericles did
+not attempt to prevent or put off the war: to the contrary, he welcomed its coming by
+forcing Sparta’s hand (Kagan, 1969, p. 338).
+Pericles had apparently decided war was inevitable in response to Spartan leaders like
+Sthenelaidas, men driven not by reason but honor, emotion, and fear. The disputes over
+Corcyra, Megara, and Potidaea—even if they were resolved, would this sate the rage of
+such men (Kagan, 1969, p. 329)? The answer of course is no. But not all Spartan leaders
+were as vulgar as Sthenelaidas. Archidamus understood the horror of war and truly
+desired to avoid it. Proof of this can be found in the second Spartan embassy, which
+required Athens to simply withdraw the Megarian Decree. In other words, Sparta was
+willing to allow Corinthian interests at Potidaea to be crushed by the besieging Athenian
+forces were Pericles to simply throw her a bone. But Pericles would make no such
+concession, for he believed it would simply embolden his enemies. He also believed any
+war would be relatively short, and that Athens would be victorious (Kagan, 1969, p. 340).
+Pericles ’strategy was misguided. His belief that war was inevitable in fact made war
+inevitable. His belief that concessions would accomplish nothing was in defiance of the
+facts of the case. His belief that the war would be short, mirroring that of the Spartan war
+party, was egregiously specious. And his confidence that Athens would be victorious
+would be disproven, finally, in 404 when it surrendered. He was wise to warn against
+repeating the mistakes of the First Peloponnesian War, but after his death in the plague of
+429, he could do nothing to restrain the mob, which in the years to come would violate
+his prohibitions with a stupendous expedition to Sicily.
+The “Truest Cause” of the Peloponnesian War
+Corinth pushed, Pericles pulled, and eventually Thebes acted, forcing Sparta into war.
+The Second Peloponnesian War was not a preventive war dictated by the nature of the
+inter-polis system. The popular interpretation (Platias & Koliopoulos, 2010) is wrong.
+
+©Classics of Strategy & Diplomacy24
+War broke out when a host of necessary factors piled on top of each other. General
+rivalry driven by a competition for timē, a tight alliance system, and an increasingly
+unpopular Athenian Empire did make systemic war possible. But in itself, this was not
+sufficient to cause war.
+Other necessary factors included Corinth’s hatred of Corcyra and its quest for vengeance
+in the affair with Epidamnus; Athens ’greedy alliance with Corcyra, its punishment of
+Megara, and its preparations for war and preemptive action in Potidaea; Corinth’s
+obsession with becoming a great power, which made it unwilling to back down; Sparta’s
+split political system, which prevented it from accepting Pericles ’offer of arbitration; the
+nearly universal belief that war would be short; the backward nature of Greek diplomacy,
+which permitted no permanent embassies, required public debate on sensitive issues, and
+lacked the ability to facilitate inter-polis conferences to resolve disputes (on the
+immaturity of diplomacy in the ancient world generally see Eckstein, 2010; in the context
+of the Peloponnesian War see Lebow, 1991, pp. 146–147); the belief among war parties
+everywhere (in Corcyra, Athens, Corinth, and Sparta) that war was inevitable; Pericles ’
+obsession with credibility and deterrence; and Pericles ’unrealistic grand strategy. Even if
+just one of these factors had not been present, war likely would not have happened.
+But does not this contradict Thucydides ’own judgment in 1.23.4-6? Here he wrote:
+As to the reason why they broke the truce, I propose first to give an account of the
+cause of complaint which they had against each other and of the specific instances
+where their interests clashed: this is in order that there should be no doubt in
+anyone’s mind about what led to this great war falling upon the Hellenes. But the
+real reason for the war is, in my opinion, most likely to be disguised by such an
+argument. What made war inevitable was the the [sic] growth of Athenian power
+and the fear which this caused in Sparta. As for the reasons for breaking the truce
+and declaring war which were openly expressed by each side, they are as follows.
+(Thucydides, 1972)
+This certainly makes it sound as if Thucydides looks to explain the war not by examining
+the “complaints”—the immediate disputes of Corcyra, Megara, and Potidaea—which
+merely “disguise” the “real reason,” but by reflecting on the broader trends of growing
+Athenian power, and the fear which this in turn inspired in Sparta. One needs only to pick
+up a popular international relations book to see such an interpretation (for discussions,
+see Ahrensdorf, 1997; Bagby, 1994; Bedford & Workman, 2001; Doyle, 1990; Garst,
+1989). Serious historians like Kagan have also accepted this as Thucydides ’definitive
+judgment (while disagreeing with its truthfulness) (1969, pp. 357-374).
+Whether, indeed, the above translation is faithful to the Greek text, however, has been
+seriously challenged. Many scholars insist that the English translators of this critical
+passage have, since Hobbes, let down their readers. Raphael Sealey, in an influential
+article (1975), proposed an alternative translation.
+
+©Classics of Strategy & Diplomacy25
+
+As for why they broke the treaty, I have written down first the complaints and the
+disputes, so that no one may ever inquire whence so great a war arose among the
+Greeks. Now the most genuine cause, though least spoken of, was this: it was the
+Athenians, in my opinion, as they were growing great and furnishing an occasion
+of fear to the Lacedaemonians, who compelled the latter to go to war. But the
+complaints of each side, spoken of openly, were the following, complaints which
+led the parties to break the treaty and enter a state of war. (p. 92)
+Sealey’s translation has the immediate merit of getting the subject of the “most genuine
+cause” clause correct: it is not impersonal forces but tous Athenaious, the Athenians (p.
+91-92). The Greek is accusative specifically to emphasize its importance (“It was the
+Athenians who…”). Unlike standard translations, which make war sound “inevitable,”
+Sealey argues that in this statement Thucydides is actually attributing responsibility to
+Athens, specifically (p. 92). Thucydides can contrast this “most genuine cause” with
+those more spoken of, because Spartan aggression was the common explanation for war
+(p. 93). (This explanation for the contrast of causes, it should be noted, directly
+contradicts Kagan’s account [1969, p. 372], which supposes Pericles, Thucydides ’hero,
+to have been the most spoken of cause.)
+Definitive treatments from Arthur Eckstein (2003) and Andreas Osiander (2007, pp. 139164) complete Sealey’s argument. According to Eckstein, Warner adds three
+words/phrases to Thucydides 1.23.5-6 that simply do not exist in Greek: “real cause,”
+“inevitable,” and “disguise” (2003, p. 760). These three added words give the impression
+that Thucydides is focusing on system-level processes, but in fact are mistranslations.
+As for how the passage ought to be translated, Eckstein agrees with Sealey’s earlier
+translation, noting that it “has increasingly found favour among classicists” (2003, p.
+765). He emphasizes in particular that popular translations like Warner’s (and CrawleyWick, recently reissued in The Landmark Thucydides [1996]), mark 1.23.5 and 1.23.6 in
+opposition by placing a “but” between them (“But the real reason for the war…”). This
+translation is mistaken, for the Greek “suggests that the one explains the other”; 1.23.6,
+begins therefore with the idea of “For, you see” (Eckstein, 2003, pp. 770; 773). That
+Thucydides would link these (the causes of complaint and the truest cause) makes sense,
+as the “complaints” and “disputes” Thucydides spends so much time on are the fuel of the
+power-transition fire (p. 763). Eckstein thus concludes:
+Thucydides thought that future enquirers into the origins of the Peloponnesian
+War would obtain a complete and final answer if they combined the detailed
+information he offered on the complaints and quarrels (I.23.5 followed by I.2467) with the implications of I.23.6 on the power-transition crisis, and if they
+understood the particular events of I.23.5 within a structural framework. This is
+understood by classicists, but not by political scientists misled by bad translations.
+(2003, p. 773).
+
+©Classics of Strategy & Diplomacy26
+
+Thucydides ’innovation was to put the immediate clash between Athenian and Spartan
+interests into a systemic perspective (p. 766). The power transition was a necessary
+factor, but other factors were required in order to bring about war: these were the
+complaints and causes.
+Osiander (2007) concurs with these earlier critiques of the common English translations.
+From a corrected literal translation of 1.23.5-6, he draws four immediate implications.
+The “truest cause” of the war is “the Athenians”—who are the grammatical subject of the
+sentence (p. 154)—“doing something” (p. 142-3). What it is they are doing is “achieving
+greatness” and “giving the Lakedaimonians cause for worry.” The Athenians are the
+cause because they “left no other option but war” (p. 143). There is nothing abstract and
+noting inevitable to derive from the passage.
+Osiander’s second exegetical argument adds a new refinement to translating this critical
+passage. He argues that translators wrongly turned an additive link (“achieving greatness
+and giving the Lakedaimonians cause for worry”) into a causal link through the use of
+relative clauses. Thomas Hobbes translated the line “the growth of the Athenian power,
+which putting the Lacedaemonians into fear necessitated the war” (Warner’s translation is
+similar). But this is actually more of an interpretation of the text than a translation, for, as
+Osiander writes, “whereas Thukydides places the greatness (not power) of the Athenians
+and the fear of the Lakedaimonians side by side without either specifying the nature of
+the link or establishing a hierarchy, in Hobbes the fear of the Lakedaimonians becomes a
+corollary of the power of the Athenians” (p. 143). Thucydides explains the truest cause of
+the war to be Athens achieving greatness and—in addition—“giving the Lakedaimonians
+cause for worry” (pp. 143-144). Athens ’achievement of greatness is a necessary but not
+sufficient cause for the war; according to Thucydides ’own assessment, the war required a
+second necessary cause—specific actions by Athens that threatened Sparta. That both
+variables are required is reinforced later in Thucydides, when, in explaining Sparta’s final
+vote for war, he reverses the order: fear precedes Athens ’growing power (1.88; Osiander,
+2007, p. 144). Here, Osiander notes, “the Lakedaimonians are concerned about their
+relative power because the Athenians give them cause for fear” (p. 144).
+This interpretation has the merit of making sense of the Pentecontaetia (1.89-1.117),
+Thucydides ’digression into “how Athens came to be in the position to gain such
+strength” (1.89) and what it did with its power. During this period the relatively benign
+Athenian hegemonia turned into an arche—an empire imposed by force. Eventually
+Athens itself takes the place of the Persians of 480 as “the symbol of rank despotism”
+(Lebow, 2003, p. 125; cf. Osiander, 2007, p. 149-50). Far from being some modern
+interpretation, this is of course what the Greeks of 431 believed themselves (2.8-9).
+Athens, a great power, abused its power and so embittered the Greek world, inspiring fear
+in its neighbors. When Athens threatened to consolidate its hegemony further in a series
+of crises (Corcyra, Potidaea, and Megara) that threatened Sparta’s existence as a
+
+©Classics of Strategy & Diplomacy27
+hegemon, war was the outcome, though not one Athens intentionally sought nor one
+Sparta seemed able to avoid (Osiander, 2007, p. 155).
+The idea that Athens simply grew so powerful that Sparta launched a preventive war to
+restrain its growth—the popular interpretation of the Second Peloponnesian War—is
+mistaken. Thucydides does speak of Athens achieving greatness, but as Osiander notes,
+this only means “the Athenians achieved great power at some point in time—presumably
+at the beginning of the half-century under consideration” (p. 152). Indeed, as Kagan has
+demonstrated, Athenian power remained stable in the years following the First
+Peloponnesian War, years in which both Greek hegemons scrupulously respected the
+rules set by the Thirty Years ’Peace (1969, p. 189; for more recent discussions see Meyer,
+1997).
+In the end, if the scholarly critics of popular translations of Thucydides 1.23.4-6 are
+correct, then Thucydides can be, at least in part, vindicated of Kagan’s charge that he
+intentionally made war seem to be inevitable in order to protect the reputation of Pericles,
+who had been popularly condemned as the man responsible for the war (1969, p. 372). In
+other words, Kagan’s case against inevitability is solid, even certain. But this need not,
+and should not, also be a case against Thucydides (Gruen, 1971, pp. 331–332).
+Conclusion
+This essay has argued that ideas, specifically the Greek conception of timē; the structure
+of the Greek world, specifically its rivalries, contending alliance systems, and polarity; a
+series of contingent events, specifically stasis at Epidamnus and disagreements between
+Megara and Corinth; and individuals, specifically Pericles and his belief in the
+inevitability of war and therefore his refusal to compromise, combined to bring systemic
+war to Greece in 431 BC. Other contributing factors include the underdeveloped nature of
+Greek diplomacy, the general belief that war was inevitable and that it would be short,
+and general overreliance on deterrence and compellence (Lebow, 2007). War was the
+outcome of a long chain of events. The Greeks of the fifth century walked down a “road
+to war” (Senese & Vasquez, 2009; Vasquez, 2009). There were many opportunities to
+stop walking, to step off, or even to turn around. These opportunities were not taken.
+Instead, the actors confidently advanced forward. There were a few voices of reason
+along the way that cried out for the actors to make concessions and solve their disputes
+through peaceful means. Archidamus, the Spartan King, represents these lonesome
+voices.
+If we were today to absorb something from Thucydides ’account, it should include
+rejecting “a general enthusiasm for war” (1.80); it should include the duty of leaders to
+step off the road to war, that road dominated by honor, credibility, deterrence,
+compellence, visions of inevitability, and dreams of short wars, even when domestically
+costly; it should include the recognition of man’s inability “to calculate accurately events
+that are determined by chance”; and it should include a sense of respect for that laconic
+slowness and caution which can equally well be known as wisdom and sensibleness
+
+©Classics of Strategy & Diplomacy28
+(1.84). Were we to learn these lessons, we would disprove the validity of Thucydides ’
+claim that, “human nature being what it is,” “the events which happened in the past . . .
+will at some time or other and in much the same ways, be repeated in the future” (1.22).
+*All translations of Thucydides are from Rex Warner’s 1972 translation unless otherwise
+noted.
+Acknowledgements
+I would like to thank Dr. Patrick Garrity for his guidance on this project. Dr. Douglas
+Favelo, Annika McKinney, and Caleb Nelson offered valuable feedback and Jennifer
+Burton and William Cross provided a congenial writing environment.
+Bibliography
+Ahrensdorf, P. J. (1997). Thucydides’ Realistic Critique of Realism. Polity, 30(2), 231–
+265.
+Allison, J. W. (1984). Sthenelaidas’ Speech: Thucydides 1.86. Hermes, 112(1), 9–16.
+Bagby, L. M. (1994). The Use and Abuse of Thucydides in International Relations.
+International Organization, 48(1), 131–153.
+Bedford, D., & Workman, T. (2001). The Tragic Reading of the Thucydidean Tragedy.
+Review of International Studies, 27(1), 51–67.
+Bloedow, E. F. (1981). The Speeches of Archidamus and Sthenelaidas at Sparta.
+Historia: Zeitschrift Für Alte Geschichte, 30(2), 129–143.
+Bloedow, E. F. (1991). Athen’s [sic] Treaty with Corcyra: A Study in Athenian Foreign
+Policy. Athenaeum, 79, 185–210.
+Booth, K., & Nicholas J. Wheeler. (2008). The Security Dilemma: Fear, Cooperation and
+Trust in World Politics. New York: Palgrave Macmillan.
+Cartwright, D. (1997). A Historical Commentary on Thucydides: A Companion to Rex
+Warner’s Penguin Translation. Ann Arbor: University of Michigan Press.
+Chan, S. (2013). Enduring Rivalries in the Asia-Pacific. Cambridge: Cambridge
+University Press.
+Crane, G. (1992). Power, Prestige, and the Corcyrean Affair in Thucyddies 1. Classical
+Antiquity, 11(1), 1–27.
+Dolgert, S. (2012). Thucydides, Amended: Religion, Narrative, and IR Theory in the
+Peloponnesian Crisis. Review of International Studies, 38(3), 661–682.
+Doyle, M. W. (1990). Thucydidean Realism. Review of International Studies, 16(3), 223–
+237.
+Eckstein, A. M. (2003). Thucydides, the Outbreak of the Peloponnesian War, and the
+Foundation of International Systems Theory. The International History Review,
+25(4), 757–774.
+Eckstein, A. M. (2010). The Character of Pre-Modern Interstate Diplomacy. The
+International History Review, 32(2), 319–328.
+Finley, M. I. (1972). Introduction. In History of the Peloponnesian War (pp. 9–32). New
+York: Penguin Books.
+
+©Classics of Strategy & Diplomacy29
+Garst, D. (1989). Thucydides and Neorealism. International Studies Quarterly, 33(1), 3–
+27.
+Gruen, E. S. (1971). Thucydides, His Critics and Interpreters. The Journal of
+Interdisciplinary History, 1(2), 327–337.
+Hanson, V. D. (2005). A War Like No Other. New York: Random House.
+Kagan, D. (1969). The Outbreak of the Peloponnesian War. Ithaca: Cornell University
+Press.
+Kagan, D. (1974). The Archidamian War. Ithaca: Cornell University Press.
+Kagan, D. (1981). The Peace of Nicias and the Sicilian Expedition. Ithaca: Cornell
+University Press.
+Kagan, D. (1987). The Fall of the Athenian Empire. Ithaca: Cornell University Press.
+Kagan, D. (2010). Thucydides: The Reinvention of History (Reprint edition). New York:
+Penguin Books.
+Kupchan, C. A. (2012). How Enemies Become Friends: The Sources of Stable Peace.
+Princeton: Princeton University Press.
+Lebow, R. N. (1991). Thucydides, Power Transition Theory, and the Causes of War. In
+R. N. Lebow & B. S. Strauss (Eds.), Hegemonic Rivalry from Thucydides to the
+Nuclear Age (pp. 125–165). San Francisco: Westview Press.
+Lebow, R. N. (2003). The Tragic Vision of Politics: Ethics, Interests and Orders.
+Cambridge: Cambridge University Press.
+Lebow, R. N. (2007). Thucydides and Deterrence. Security Studies, 16(2), 163–188.
+Lebow, R. N., & Kelly, R. (2001). Thucydides and Hegemony: Athens and the United
+States. Review of International Studies, 27(4), 593–609.
+Lendon, J. E. (2010). Song of Wrath. New York: Basic Books.
+Levy, J., & Thompson, W. R. (2010). Causes of War. Chichester, UK: Wiley-Blackwell.
+Mearsheimer, J. J. (2014). The Tragedy of Great Power Politics (Updated Edition). New
+York: W. W. Norton & Company.
+Meyer, E. A. (1997). The Outbreak of hte Peloponnesian War After Twenty-Five Years.
+In C. D. Hamilton & P. Krenth (Eds.), Polis and Polemos: Essays on Politics,
+War, and History in Ancient Greece in Honor of Donald Kagan (pp. 22–54).
+Claremont: Regina Books.
+Ober, J. (2005). Thucydides and the Invention of Political Science. Princeton/Stanford
+Working Papers in Classics, (110515).
+Osiander, A. (2007). Before the State: Systemic Political Change in the West from the
+Greeks to the French Revolution. Oxford: Oxford University Press.
+Platias, A. G., & Koliopoulos, C. (2010). Thucydides on Strategy: Grand Strategies in the
+Peloponnesian War and their Relevance Today. New York: Columbia University
+Press.
+Rhodes, P. J. (1987). Thucydides on the Causes of the Peloponnesian War. Hermes,
+115(2), 154–165.
+Sealey, R. (1975). The Causes of the Peloponnesian War. Classical Philology, 70(2), 89–
+109.
+Senese, P. D., & Vasquez, J. (2009). The Steps to War: An Empirical Study. Cambridge:
+Cambridge University Press.
+Stadter, P. A. (1983). The Motives for Athens’ Alliance with Corcyra (Thuc. 1.44).
+Greek, Roman and Byzantine Studies, 24(2), 131–136.
+
+©Classics of Strategy & Diplomacy30
+Tannenbaum, R. F. (1975). Who Started the Peloponnesian War? Arion: A Journal of
+Humanities and the Classics, 2(4), 533–546.
+Thucydides. (1972). History of the Peloponnesian War. (Rex Warner, Trans.). New
+York: Penguin Books.
+Thucydides. (1998). The Landmark Thucydides. (R. Crawley & T. E. Wick, Trans.) (First
+Edition). New York: Free Press.
+Vasquez, J. A. (2009). The War Puzzle Revisited. Cambridge: Cambridge University
+Press.
+Watson, A. (2009). The Evolution of International Society: A Comparative Historical
+Analysis (Second Edition). New York: Routledge.
+
+
