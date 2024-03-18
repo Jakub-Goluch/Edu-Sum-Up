@@ -3,11 +3,11 @@ from langchain_community.vectorstores import Chroma
 from langchain_openai import OpenAIEmbeddings
 from langchain.chains import RetrievalQA
 
-from utils.utils import get_documents_pdf
+from utils.utils import get_documents_pdf, get_documents_txt
 
-path = "examples/ekonomia.pdf"
+path = "examples/pelopnesianwar.txt"
 
-document = get_documents_pdf(path)
+document = get_documents_txt(path)
 
 embeddings = OpenAIEmbeddings()
 docsearch = Chroma.from_documents(document, embeddings)
@@ -18,12 +18,12 @@ chain = RetrievalQA.from_chain_type(llm=
                                     return_source_documents=True
                                     )
 
-questions_list = ["Skróć ten tekst."]
+questions_list = ["Shorten this text"]
 
 summary = ""
 for question in questions_list:
     summary += chain(
-        {'query': f'{question} Rozwin swoja wypowiedz o jak najwiecej szczegolow. Dam ci za to duży napiwek'},
+        {'query': f'{question} Expand your statement with as many details as possible.'},
         return_only_outputs=True
     )['result']
 
