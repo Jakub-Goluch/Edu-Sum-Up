@@ -4,7 +4,7 @@ from langchain_community.document_loaders.text import TextLoader
 
 
 def get_documents_txt(path):
-    loader = TextLoader(path)
+    loader = TextLoader(path, encoding='utf-8')
     pages = loader.load_and_split()
 
     text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=10)
