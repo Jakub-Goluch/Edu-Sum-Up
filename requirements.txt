@@ -2,3 +2,5 @@ langchain == 0.1.11
 langchain-openai == 0.0.8
 pypdf == 4.1.0
 chromadb == 0.4.24
+
+scholarly~=1.7.11
