@@ -2,5 +2,6 @@ langchain == 0.1.11
 langchain-openai == 0.0.8
 pypdf == 4.1.0
 chromadb == 0.4.24
-
+spacy >= 3.7.0
 fastapi~=0.110.0
+pke >= 1.8.1
