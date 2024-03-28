@@ -3,7 +3,7 @@ def search_keywords(text):
     """ Extracts keywords from the text using TextRank algorithm.
     Args:
         text (str): Text from which keywords are to be extracted.
-        Returns:
+    Returns:
         keyphrases (list): List of keyphrases extracted from the text.
         keywords (list): List of keywords extracted from the text.
         """
@@ -43,3 +43,11 @@ itself is, and this information is also taken into account by the ranking model.
 that are cast for it, and the score of the vertices casting these votes.
 """
 print(search_keywords(text))
+
+
+#output([('basic idea', 0.15267204128774325),
+# ('entire graph', 0.15267200128774328), 
+# ('global information', 0.15267193128774326), ('ranking', 0.11194630201412213),
+# ('information', 0.07633704064387163), ('graph', 0.07633604064387163),
+# ('vertex', 0.07633600064387164)],
+# ['basic idea', 'entire graph', 'global information', 'ranking', 'information', 'graph', 'vertex'])
