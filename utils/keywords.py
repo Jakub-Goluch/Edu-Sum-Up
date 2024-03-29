@@ -1,5 +1,5 @@
 import pke 
-def search_keywords(text) -> list[str]:
+def search_keywords(text:str) -> list[str]:
     """ Extracts keywords from the text using TextRank algorithm.
     Args:
         text (str): Text from which keywords are to be extracted.
