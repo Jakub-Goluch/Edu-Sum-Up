@@ -7,8 +7,7 @@ def search_keywords(text) -> list[str]:
         keyphrases (list): List of keyphrases extracted from the text.
         keywords (list): List of keywords extracted from the text.
         """
-    # define the set of valid Part-of-Speeches
-    pos = {'NOUN', 'PROPN', 'ADJ'}
+    part_of_speech_tags: set = {'NOUN', 'PROPN', 'ADJ'}
 
     # 1. create a TextRank extractor.
     extractor = pke.unsupervised.TextRank()
