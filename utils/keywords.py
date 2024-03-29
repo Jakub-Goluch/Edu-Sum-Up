@@ -27,8 +27,7 @@ def search_keywords(text):
 
     # 4. get the 10-highest scored candidates as keyphrases
     keyphrases = extractor.get_n_best(n=10)
-    keywords = [keyphrase for keyphrase, score in keyphrases]
-    return keyphrases,keywords
+    return [keyword for keyword, score in keyphrases]
 text = """
 Graph-based ranking algorithms are essentially a
 way of deciding the importance of a vertex within
