@@ -1,5 +1,6 @@
 import requests
 import json
+from pprint import pprint
 
 
 class SemanticScholarScraper:
@@ -119,4 +120,4 @@ if __name__ == "__main__":
     keywords = ["Zero-shot learning", "Natural Language Processing", "Machine Learning"]
     scraper = SemanticScholarScraper()
     publications = scraper.get_related_publications(keywords)
-    print(publications)
+    pprint(publications)
