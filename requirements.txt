@@ -2,7 +2,8 @@ langchain == 0.1.11
 langchain-openai == 0.0.8
 pypdf == 4.1.0
 chromadb == 0.4.24
-
-scholarly~=1.7.11
 fastapi~=0.110.0
+spacy >= 3.7.0
+pke >= 1.8.1
+scholarly~=1.7.11
 requests~=2.31.0
