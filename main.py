@@ -29,3 +29,6 @@ for question in questions_list:
 
 content = f"## Podsumowanie:\n{summary}\n"
 print(content)
+
+with open("result.txt", "w+") as file:
+    file.write(content)
