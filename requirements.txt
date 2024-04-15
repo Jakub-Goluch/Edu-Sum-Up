@@ -7,3 +7,6 @@ spacy >= 3.7.0
 pke >= 1.8.1
 scholarly~=1.7.11
 requests~=2.31.0
+pytesseract >= 0.3.10
+pdf2image >= 1.17.0
+fpdf >= 1.7.2
