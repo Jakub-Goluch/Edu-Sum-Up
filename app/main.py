@@ -24,6 +24,6 @@ async def result(request: Request):
 
 if __name__ == '__main__':
     uvicorn.run(app, host='0.0.0.0', port=8000)
-        # działa na 127.0.0.1:8000
-    # terminal musi być na direcory app tzn. working directory to app
+        # works on na 127.0.0.1:8000
+    # working directory set to app folder
 #run uvicorn main:app --reload
