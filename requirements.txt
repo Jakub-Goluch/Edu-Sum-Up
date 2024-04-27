@@ -11,3 +11,4 @@ pdf2image >= 1.17.0
 fpdf >= 1.7.2
 numpy >= 1.26.4
 jinja2 >= 3.0.0
+python-multipart
