@@ -38,7 +38,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&family=Jersey+15&display=swap" rel="stylesheet">
-<script src="static/js/service_workers.js"> </script>``
+<script src="static/js/service_workers.js"> </script>
 
 
 
@@ -66,15 +66,20 @@
                 <br>
                 <img src="static/images/file.png" alt="">
                 <input type="file" id="file-input" name="file" placeholder="drag and drop file">
-                <button type="submit"> Send query</button>
+                <button type="submit" id="alertButton"> Generate summary</button>
             </form>
         </section>
     </main>
-
+    <script>
+        document.getElementById("alertButton").onclick = function() {
+            alert("Please wait! Your summary is being generated.");
+        }
+    </script>
     <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
 
     <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
-    <script src="static/js/app.js"></script>
+        <script src="static/js/app.js"></script>
+    </script>
 </body>
 <footer>
     <p>&copy; 2024 Edu SumUp+ All rights reserved</p>
