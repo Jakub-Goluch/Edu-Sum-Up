@@ -339,11 +339,12 @@ main {
     }
 }
 footer {
-    /* margin-top:40px; */
+    margin-top:40px;
     display: flex;
     background-color: rgba(28, 28, 29, 0.9);
     align-items: center;
     justify-content: center;
+    position: relative;
     text-align:center;
     /* position: relative; */
     /* height: 100px; */
