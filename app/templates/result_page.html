@@ -73,12 +73,8 @@
     <script src="static/js/app.js"></script>
 </body>
 <footer>
-   <p class="keyword">  Keyword </p>
-   <p class="keyword">  Keyword </p>
-   <p class="keyword">  Keyword </p>
-   <p class="keyword">  Keyword </p>
-   <p class="keyword">  Keyword </p>
-
-  
+    {% for keyword in keywords %}
+    <p class="keyword">{{ keyword }}</p>
+    {% endfor %}
 </footer>
 </html>
