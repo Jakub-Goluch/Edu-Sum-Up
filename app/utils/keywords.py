@@ -33,5 +33,6 @@ def search_keyphrases(path:str) -> list[str]:
     keyphrases = extractor.get_n_best(n=10)
     return [keyword for keyword, score in keyphrases]
 
-path_to_file ="examples/summ_text.txt"
-print(search_keyphrases(path_to_file))
+if __name__ == "__main__":
+    path_to_file ="examples/summ_text.txt"
+    print(search_keyphrases(path_to_file))
