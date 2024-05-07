@@ -58,13 +58,12 @@
           <p>{{ summary }}</p>
         </section>
 
-        <section class="form">
+        <section class="publications">
             <h2>Related publications</h2>
-            <li> Publication 1 </li>
-            <li> Publication 2 </li>
-            <li> Publication 3 </li>
-            <li> Publication 4 </li>
-            <li> Publication 5 </li>
+        {% for publication in publications %}
+            <li>{{ publication }}</li>
+        {% endfor %}
+
         </section>
     </main>
 
