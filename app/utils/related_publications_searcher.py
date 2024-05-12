@@ -65,8 +65,7 @@ class SemanticScholarScraper:
         )
         return response
 
-    @staticmethod
-    def parse_html_response(response: requests.Response) -> list[dict[str, str]]:
+    def parse_html_response(self, response: requests.Response) -> list[dict[str, str]]:
         """Parse response from semanticscholar api.
 
         Args:
@@ -80,8 +79,13 @@ class SemanticScholarScraper:
         response = response.json()["results"]
 
         for result in response:
+            publication = {"title": result["title"]["text"], "link": [],
+                           "authors": self.get_authors(result), "publication_date": None}
 
-            publication = {"title": result["title"]["text"], "link": []}
+            if result.get("pubDate"):
+                publication["publication_date"] = result["pubDate"]
+            else:
+                publication["publication_date"] = result.get('year').get("text")
 
             if "primaryPaperLink" in result:
                 publication["link"] = result["primaryPaperLink"]["url"]
@@ -113,6 +117,16 @@ class SemanticScholarScraper:
         parsed_response = self.parse_html_response(semanticscholar_response)
 
         return parsed_response
+
+    @staticmethod
+    def get_authors(result):
+        authors_list = []
+        if isinstance(result, dict):
+            for key, value in result.items():
+                if key == 'authors':
+                    for author in value:
+                        authors_list.append(author[1]['text'])
+        return authors_list
 
 
 if __name__ == "__main__":
