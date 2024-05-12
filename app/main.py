@@ -1,34 +1,55 @@
 import os
 import shutil
+import threading
 import uvicorn
-from fastapi import FastAPI, Request
-from fastapi import File
-from fastapi import UploadFile, HTTPException
-from fastapi.responses import HTMLResponse
-from fastapi.responses import RedirectResponse
+from fastapi import FastAPI, Request, UploadFile, File, HTTPException
+from fastapi.responses import HTMLResponse, RedirectResponse
 from fastapi.staticfiles import StaticFiles
 from fastapi.templating import Jinja2Templates
+from urllib.parse import quote_plus, unquote_plus
+import json
 
-from utils.text_summarization import text_summarization
+from app.utils.keywords import search_keyphrases
+from app.utils.related_publications_searcher import SemanticScholarScraper
+from app.utils.text_summarization import text_summarization
 
 app = FastAPI()
-app.mount("/static", StaticFiles(directory="static"), name="static")  # static files
-templates = Jinja2Templates(directory="templates")  # templates
+app.mount("/static", StaticFiles(directory="static"), name="static")
+templates = Jinja2Templates(directory="templates")
 
 
-# main page
 @app.get("/", response_class=HTMLResponse)
 async def index(request: Request):
-    response = templates.TemplateResponse("index_main.html", {"request": request})
-    return response
+    return templates.TemplateResponse("index_main.html", {"request": request})
 
 
-# result page
 @app.get("/result", response_class=HTMLResponse)
-async def result(request: Request, summary: str):
+async def result(request: Request, summary: str, publications: str):
+    decoded_publications = json.loads(unquote_plus(publications))
     return templates.TemplateResponse(
-        "result_page.html", {"request": request, "summary": summary}
+        "result_page.html",
+        {"request": request, "summary": summary, "publications": decoded_publications},
     )
+
+
+def process_text(file_name, results):
+    try:
+        print("Text processing...")
+        summary = text_summarization(file_name)
+        keywords = search_keyphrases(file_name)
+        results.update({"summary": summary, "keywords": keywords})
+    except Exception as e:
+        print(f"Text processing error: {e}")
+
+
+def fetch_publications(file_name, results):
+    try:
+        scraper = SemanticScholarScraper()
+        print("Publications fetching...")
+        publications = scraper.get_related_publications(file_name)
+        results.update({"publications": [pub["title"] for pub in publications]})
+    except Exception as e:
+        print(f"Publication fetching error: {e}")
 
 
 @app.post("/")
@@ -36,18 +57,43 @@ async def upload_file(file: UploadFile = File(...)):
     try:
         with open(file.filename, "wb") as buffer:
             shutil.copyfileobj(file.file, buffer)
-        summary = text_summarization(file.filename)
-        os.remove(file.filename)  # remove the file after processing
+
+        results = {}
+        # Creating threads
+        text_thread = threading.Thread(
+            target=process_text, args=(file.filename, results)
+        )
+        publications_thread = threading.Thread(
+            target=fetch_publications, args=(file.filename, results)
+        )
+
+        # Starting threads
+        text_thread.start()
+        publications_thread.start()
+
+        # Joining threads
+        text_thread.join()
+        publications_thread.join()
+
+        if "summary" not in results or "keywords" not in results:
+            raise Exception("Error during text processing.")
+
+        publications_json = json.dumps(results.get("publications", []))
+        encoded_publications = quote_plus(publications_json)
     except Exception as e:
-        print(f"Error: {e}")  # print the error message
+        print(f"Error: {e}")
         raise HTTPException(
             status_code=400, detail="An error occurred while processing the file."
         )
-    return RedirectResponse(url=f"/result?summary={summary}", status_code=303)
+    finally:
+        if os.path.exists(file.filename):
+            os.remove(file.filename)
+
+    return RedirectResponse(
+        url=f"/result?summary={quote_plus(results.get('summary', ''))}&publications={encoded_publications}",
+        status_code=303,
+    )
 
 
 if __name__ == "__main__":
     uvicorn.run(app, host="0.0.0.0", port=8000)
-    # works on na 127.0.0.1:8000
-    # working directory set to app folder
-# run uvicorn main:app --reload
