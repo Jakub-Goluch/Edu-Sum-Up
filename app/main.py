@@ -9,9 +9,9 @@ from fastapi.templating import Jinja2Templates
 from urllib.parse import quote_plus, unquote_plus
 import json
 
-from app.utils.keywords import search_keyphrases
-from app.utils.related_publications_searcher import SemanticScholarScraper
-from app.utils.text_summarization import text_summarization
+from utils.keywords import search_keyphrases
+from utils.related_publications_searcher import SemanticScholarScraper
+from utils.text_summarization import text_summarization
 
 app = FastAPI()
 app.mount("/static", StaticFiles(directory="static"), name="static")
