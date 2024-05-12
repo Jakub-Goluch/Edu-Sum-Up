@@ -24,11 +24,17 @@ async def index(request: Request):
 
 
 @app.get("/result", response_class=HTMLResponse)
-async def result(request: Request, summary: str, publications: str):
+async def result(request: Request, summary: str, publications: str, keywords: str):
     decoded_publications = json.loads(unquote_plus(publications))
+    decoded_keywords = json.loads(unquote_plus(keywords))
     return templates.TemplateResponse(
         "result_page.html",
-        {"request": request, "summary": summary, "publications": decoded_publications},
+        {
+            "request": request,
+            "summary": summary,
+            "publications": decoded_publications,
+            "keywords": decoded_keywords,
+        },
     )
 
 
@@ -80,6 +86,9 @@ async def upload_file(file: UploadFile = File(...)):
 
         publications_json = json.dumps(results.get("publications", []))
         encoded_publications = quote_plus(publications_json)
+
+        keywords_json = json.dumps(results.get("keywords", []))
+        encoded_keywords = quote_plus(keywords_json)
     except Exception as e:
         print(f"Error: {e}")
         raise HTTPException(
@@ -90,7 +99,7 @@ async def upload_file(file: UploadFile = File(...)):
             os.remove(file.filename)
 
     return RedirectResponse(
-        url=f"/result?summary={quote_plus(results.get('summary', ''))}&publications={encoded_publications}",
+        url=f"/result?summary={quote_plus(results.get('summary', ''))}&publications={encoded_publications}&keywords={encoded_keywords}",
         status_code=303,
     )
 
