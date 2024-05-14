@@ -30,7 +30,7 @@ def search_keyphrases(path:str) -> list[str]:
                                 top_percent=0.33)
 
     # 4. get the 10-highest scored candidates as keyphrases
-    keyphrases = extractor.get_n_best(n=10)
+    keyphrases = extractor.get_n_best(n=6)
     return [keyword for keyword, score in keyphrases]
 
 if __name__ == "__main__":
