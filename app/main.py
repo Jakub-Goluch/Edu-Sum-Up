@@ -53,7 +53,9 @@ def fetch_publications(file_name, results):
         scraper = SemanticScholarScraper()
         print("Publications fetching...")
         publications = scraper.get_related_publications(keywords)
-        results.update({"publications": [pub["title"] for pub in publications], "keywords": keywords})
+        results.update({"publications": [
+            pub["title"] + ' - ' + ', '.join(pub["authors"]) + ' - ' + pub["publication_date"] for pub in publications],
+                        "keywords": keywords})
     except Exception as e:
         print(f"Publication fetching error: {e}")
 
