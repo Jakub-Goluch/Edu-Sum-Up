@@ -53,6 +53,10 @@ def fetch_publications(file_name, results):
         scraper = SemanticScholarScraper()
         print("Publications fetching...")
         publications = scraper.get_related_publications(keywords)
+        if not publications:
+            publications = []
+            for keyword in keywords:
+                publications.append(scraper.get_related_publications([keyword])[0])
         results.update({"publications": [
             pub["title"] + ' - ' + ', '.join(pub["authors"]) + ' - ' + pub["publication_date"] for pub in publications],
                         "keywords": keywords})
