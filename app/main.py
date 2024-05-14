@@ -42,18 +42,18 @@ def process_text(file_name, results):
     try:
         print("Text processing...")
         summary = text_summarization(file_name)
-        keywords = search_keyphrases(file_name)
-        results.update({"summary": summary, "keywords": keywords})
+        results.update({"summary": summary})
     except Exception as e:
         print(f"Text processing error: {e}")
 
 
 def fetch_publications(file_name, results):
     try:
+        keywords = search_keyphrases(file_name)
         scraper = SemanticScholarScraper()
         print("Publications fetching...")
-        publications = scraper.get_related_publications(file_name)
-        results.update({"publications": [pub["title"] for pub in publications]})
+        publications = scraper.get_related_publications(keywords)
+        results.update({"publications": [pub["title"] for pub in publications], "keywords": keywords})
     except Exception as e:
         print(f"Publication fetching error: {e}")
 
