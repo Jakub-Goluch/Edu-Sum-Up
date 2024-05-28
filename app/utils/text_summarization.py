@@ -3,7 +3,7 @@ from langchain_community.vectorstores import Chroma
 from langchain_openai import OpenAIEmbeddings
 from langchain.chains import RetrievalQA
 
-from utils.utils import get_documents_pdf, get_documents_txt
+from .utils import get_documents_pdf, get_documents_txt
 
 
 def text_summarization(path: str) -> str:
