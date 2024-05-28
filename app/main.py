@@ -12,6 +12,7 @@ import json
 from utils.keywords import search_keyphrases
 from utils.related_publications_searcher import SemanticScholarScraper
 from utils.text_summarization import text_summarization
+from utils.ytsubs2text import sub2text
 
 app = FastAPI()
 app.mount("/static", StaticFiles(directory="static"), name="static")
@@ -65,18 +66,26 @@ def fetch_publications(file_name, results):
 
 
 @app.post("/")
-async def upload_file(file: UploadFile = File(...)):
+async def upload_file(request: Request, file: UploadFile = File(...)):
+    file_path = None
     try:
-        with open(file.filename, "wb") as buffer:
-            shutil.copyfileobj(file.file, buffer)
+        form_data = await request.form()
+        url_name = form_data.get("url_name")
+
+        if url_name:
+            file_path = sub2text(url_name)
+        else:
+            file_path = file.filename
+            with open(file.filename, "wb") as buffer:
+                shutil.copyfileobj(file.file, buffer)
 
         results = {}
         # Creating threads
         text_thread = threading.Thread(
-            target=process_text, args=(file.filename, results)
+            target=process_text, args=(file_path, results)
         )
         publications_thread = threading.Thread(
-            target=fetch_publications, args=(file.filename, results)
+            target=fetch_publications, args=(file_path, results)
         )
 
         # Starting threads
@@ -101,8 +110,8 @@ async def upload_file(file: UploadFile = File(...)):
             status_code=400, detail="An error occurred while processing the file."
         )
     finally:
-        if os.path.exists(file.filename):
-            os.remove(file.filename)
+        if os.path.exists(file_path):
+            os.remove(file_path)
 
     return RedirectResponse(
         url=f"/result?summary={quote_plus(results.get('summary', ''))}&publications={encoded_publications}&keywords={encoded_keywords}",
