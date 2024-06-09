@@ -45,7 +45,7 @@ def convert_images_to_searchable_pdf(pdf_path: str, return_path: str) -> None:
         image_array = np.array(image)
         print(image_array)
         result = reader.readtext(image_array, detail=0)
-        text = pytesseract.image_to_string(image, lang="eng")
+        text = ' '.join([res[1] for res in result])
         pdf.add_page()
 
         pdf.set_font("Arial", size=15)

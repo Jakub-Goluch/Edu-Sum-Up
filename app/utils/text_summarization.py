@@ -5,8 +5,8 @@ from langchain_community.vectorstores import Chroma
 from langchain_openai import OpenAIEmbeddings
 from langchain.chains import RetrievalQA
 
-# from .pdf_ocr import convert_images_to_searchable_pdf
-from .utils import get_documents_pdf, get_documents_txt
+from pdf_ocr import convert_images_to_searchable_pdf
+from utils import get_documents_pdf, get_documents_txt
 
 
 def text_summarization(path: str) -> str:
@@ -18,7 +18,7 @@ def text_summarization(path: str) -> str:
         document = get_documents_pdf(path)
         if len(document) == 0:
             # Convert the images to searchable PDF
-            # convert_images_to_searchable_pdf(path, path)
+            convert_images_to_searchable_pdf(path, path)
             # Reload the document
             document = get_documents_pdf(path)
     else:
