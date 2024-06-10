@@ -71,8 +71,35 @@
         </section>
     </main>
     <script>
-        document.getElementById("alertButton").onclick = function() {
-            alert("Please wait! Your summary is being generated.");
+        document.getElementById("alertButton").onclick = function(event) {
+            var urlInput = document.getElementById("url_name").value;
+            var fileInput = document.getElementById("file-input").files.length;
+            var validUrl = urlInput.startsWith("https://www.youtube.com/watch?v=");
+
+            if (!urlInput && fileInput === 0) {
+                alert("Please provide a URL or upload a file.");
+                event.preventDefault();
+            } else if (urlInput && !validUrl) {
+                alert("Invalid URL. Please enter a valid YouTube URL (https://www.youtube.com/watch?v=...).");
+                event.preventDefault();
+            } else if (urlInput && fileInput > 0) {
+                alert("Please provide either a URL or a file, not both.");
+                event.preventDefault();
+            } else {
+                alert("Please wait! Your summary is being generated.");
+            }
+        }
+
+        document.getElementById("file-input").onchange = function() {
+            var file = this.files[0];
+            if (file) {
+                var fileType = file.type;
+                var validTypes = ["application/pdf", "text/plain"];
+                if (!validTypes.includes(fileType)) {
+                    alert("Invalid file type. Please upload a .txt or .pdf file.");
+                    this.value = "";
+                }
+            }
         }
     </script>
     <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
