@@ -5,8 +5,8 @@ from langchain_community.vectorstores import Chroma
 from langchain_openai import OpenAIEmbeddings
 from langchain.chains import RetrievalQA
 
-from pdf_ocr import convert_images_to_searchable_pdf
-from utils import get_documents_pdf, get_documents_txt
+from app.utils.pdf_ocr import convert_images_to_searchable_pdf
+from app.utils.utils import get_documents_pdf, get_documents_txt
 
 
 def text_summarization(path: str) -> str:

@@ -1,4 +1,5 @@
 import os
+import time
 
 import pke
 
@@ -20,8 +21,12 @@ def search_keyphrases(path: str) -> list[str]:
         with open(path, "r") as open_file:
             text = open_file.read()
     elif file_extension == '.pdf':
-        documents = get_documents_pdf(path)
-        text = ' '.join([doc.page_content for doc in documents])
+        while True: #wait until the other thread makes ocr_pdf
+            documents = get_documents_pdf(path)
+            text = ' '.join([doc.page_content for doc in documents])
+            if len(text) > 0:
+                break
+            time.sleep(10)
 
     else:
         raise ValueError(f"Unsupported file type: {file_extension}")
