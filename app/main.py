@@ -57,7 +57,9 @@ def fetch_publications(file_name, results):
         if not publications:
             publications = []
             for keyword in keywords:
-                publications.append(scraper.get_related_publications([keyword])[0])
+                keyword_publications = scraper.get_related_publications([keyword])
+                if keyword_publications:
+                    publications.append(keyword_publications[0])
         results.update({"publications": [
             pub["title"] + ' - ' + ', '.join(pub["authors"]) + ' - ' + pub["publication_date"] for pub in publications],
                         "keywords": keywords})
